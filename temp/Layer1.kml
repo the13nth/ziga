@@ -1,0 +1,4110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Layer1.kml</name>
+	<Schema name="schema0" id="schema0">
+		<SimpleField type="string" name="Description"></SimpleField>
+		<SimpleField type="string" name="pdfmaps_photos"><displayName>Photos</displayName>
+</SimpleField>
+	</Schema>
+	<Schema name="track_schema" id="track_schema">
+		<gx:SimpleArrayField kml:type="float" kml:name="speed"><displayName>speed</displayName>
+</gx:SimpleArrayField>
+		<gx:SimpleArrayField kml:type="float" kml:name="horizontal_accuracy"><displayName>horizontal_accuracy</displayName>
+</gx:SimpleArrayField>
+		<gx:SimpleArrayField kml:type="float" kml:name="vertical_accuracy"><displayName>vertical_accuracy</displayName>
+</gx:SimpleArrayField>
+		<gx:SimpleArrayField kml:type="string" kml:name="source"><displayName>source</displayName>
+</gx:SimpleArrayField>
+	</Schema>
+	<Style id="style1">
+		<IconStyle>
+			<color>ff2f80ff</color>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2f80ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff2f80ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style14">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/green_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style17">
+		<LineStyle>
+			<color>ff2f80ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/purple_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style19">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/Picnic_area.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/Fishing.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style3">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/yellow_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Layer</name>
+		<styleUrl>#style1</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#schema0">
+			</SchemaData>
+		</ExtendedData>
+		<Placemark>
+			<name>12 cashew plants recorded in a small part</name>
+			<TimeStamp><when>2022-12-13T11:36:39Z</when>
+</TimeStamp>
+			<styleUrl>#style18</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part .jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3922944216377,12.7216595923698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30 young cashew plants</name>
+			<TimeStamp><when>2022-12-13T11:45:38Z</when>
+</TimeStamp>
+			<styleUrl>#style18</styleUrl>
+			<Point>
+				<coordinates>-11.39291875,12.72225514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cashew plantation</name>
+			<TimeStamp><when>2022-12-13T12:57:35Z</when>
+</TimeStamp>
+			<styleUrl>#style18</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">Around 800 plants (were planted  2 years ago )</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation .jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3916977890361,12.7198533493903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Bagalin</name>
+			<TimeStamp><when>2022-12-13T14:07:57Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">22 trees recorded</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3970174879121,12.7248583837822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Balalingho</name>
+			<TimeStamp><when>2022-12-13T11:38:58Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Balalingho.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Balalingho (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39215654,12.72202522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Batio</name>
+			<TimeStamp><when>2022-12-13T13:20:24Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39189879,12.71978546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called bembo</name>
+			<TimeStamp><when>2022-12-13T12:04:53Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">fruit is used for food and also marked</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39243858,12.72146531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Bembo</name>
+			<TimeStamp><when>2022-12-13T12:13:34Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<Point>
+				<coordinates>-11.39160122,12.7210365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Bembo</name>
+			<TimeStamp><when>2022-12-13T15:12:53Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<Point>
+				<coordinates>-11.39127338,12.72014291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called coucouwo</name>
+			<TimeStamp><when>2022-12-13T12:19:02Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39164056,12.72098198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called dougouto</name>
+			<TimeStamp><when>2022-12-13T12:14:19Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39164563,12.72107883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Koutoundéfing</name>
+			<TimeStamp><when>2022-12-13T13:21:31Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39194893,12.71978722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Koutoundéfing</name>
+			<TimeStamp><when>2022-12-13T13:22:50Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39182412,12.71983397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Koutoundéfing</name>
+			<TimeStamp><when>2022-12-13T13:23:38Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing .jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing  (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39180496,12.71978736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Koutoundéfing</name>
+			<TimeStamp><when>2022-12-13T13:24:41Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39171474,12.71968888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Seko</name>
+			<TimeStamp><when>2022-12-13T13:14:50Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">Fruit is used for food and also marketed</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3915978227009,12.7200624166335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Ségo</name>
+			<TimeStamp><when>2022-12-13T11:58:11Z</when>
+</TimeStamp>
+			<styleUrl>#style5</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">Fruit is used for food and is also marked</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39267874,12.72175698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh</name>
+			<TimeStamp><when>2022-12-13T11:28:18Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3923554559713,12.7223558722696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh</name>
+			<TimeStamp><when>2022-12-13T11:32:55Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3922338162167,12.7222567560193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh</name>
+			<TimeStamp><when>2022-12-13T11:33:30Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Séh .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39219874,12.72221026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh</name>
+			<TimeStamp><when>2022-12-13T11:34:46Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/2_Economic tree called Séh .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39206839,12.72199849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh</name>
+			<TimeStamp><when>2022-12-13T12:00:54Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/3_Economic tree called Séh .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3926731381596,12.7216750128832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Séh in bambara</name>
+			<TimeStamp><when>2022-12-13T11:25:03Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">used to make oil, soap, médical treatment with the fruits 
+Four trees at this location</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara.jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39230506,12.72249325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree called Touro</name>
+			<TimeStamp><when>2022-12-13T14:43:15Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<Point>
+				<coordinates>-11.39689807,12.72524047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree shea</name>
+			<TimeStamp><when>2022-12-13T12:02:37Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree shea.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39273708,12.72141324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Economic tree Ziziphus mauritiana</name>
+			<TimeStamp><when>2022-12-13T12:16:48Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree Ziziphus mauritiana.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3916188025974,12.7209645533899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fode Keita, Dioulafoundou Bada 72056758</name>
+			<TimeStamp><when>2022-12-13T14:04:05Z</when>
+</TimeStamp>
+			<styleUrl>#style19</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">1)	Verify the name of the landowner and find out which village or hamlet they reside : Fode Keita, Dioulafoundou Bada 72056758
+2)	Find out how much land they own elsewhere outside the Project area. yes at 3 km from.this location. 4ha
+3)	Verify that the land boundaries are correct and if not take GPS recordings of any necessary corrections 
+4)	Take a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Maize, 
+5)	Survey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees) Cashew plantation (284 trees innthr impacted field, mango orchard (one non mâture in one shea tree
+6)	Identify any of the following assets within each land parcel: 
+a)	Physical structures (grain stores etc): No physical structure 
+b)	Spirit trees/cultural heritage sites
+c)	Wells</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3969633656114,12.7248913280407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Land conditions</name>
+			<TimeStamp><when>2022-12-13T12:01:56Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Land conditions.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39267874,12.72154098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>land cover with grassess indicating good land conditions</name>
+			<TimeStamp><when>2022-12-13T13:56:05Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/land cover with grassess indicating good land conditions  .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3969177306783,12.7249520759043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Landowner description</name>
+			<TimeStamp><when>2022-12-13T13:05:00Z</when>
+</TimeStamp>
+			<styleUrl>#style19</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">1)	Verify the name of the landowner and find out which village or hamlet they reside: Mamadou Keita, Dioulafoundou Bada 73043496 / 78772637
+2)	Find out how much land they own elsewhere outside the Project area. Yes at 500 m near this farm. Another field is located at 1km. The surface area is around 500 m²
+3)	Verify that the land boundaries are correct and if not take GPS recordings of any necessary corrections 
+4)	Take a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Maize, Groundnuts, beens.
+5)	Survey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees). Young Cashew plantation
+6)	Identify any of the following assets within each land parcel: 
+a)	Physical structures (grain stores etc)
+b)	Spirit trees/cultural heritage sites
+c)	Wells</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3914850825529,12.7200389477156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lot of young cashew plants</name>
+			<TimeStamp><when>2022-12-13T12:49:54Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">More than 40 plants</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants .jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (1).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (2).jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (3).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39232047,12.7209372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mamadou Cissoko Farm</name>
+			<TimeStamp><when>2022-12-13T13:36:27Z</when>
+</TimeStamp>
+			<styleUrl>#style20</styleUrl>
+			<Point>
+				<coordinates>-11.3915619590935,12.7203004730563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mamadou Keita, Dioulafoundou Bada 73043496 78772637</name>
+			<TimeStamp><when>2022-12-13T12:56:33Z</when>
+</TimeStamp>
+			<styleUrl>#style17</styleUrl>
+			<gx:Track>
+				<when>2022-12-13T12:56:34Z</when>
+				<when>2022-12-13T12:56:38Z</when>
+				<when>2022-12-13T12:56:41Z</when>
+				<when>2022-12-13T12:56:44Z</when>
+				<when>2022-12-13T12:56:46Z</when>
+				<when>2022-12-13T12:56:48Z</when>
+				<when>2022-12-13T12:56:50Z</when>
+				<when>2022-12-13T12:56:52Z</when>
+				<when>2022-12-13T12:56:55Z</when>
+				<when>2022-12-13T12:56:57Z</when>
+				<when>2022-12-13T12:56:59Z</when>
+				<when>2022-12-13T12:57:02Z</when>
+				<when>2022-12-13T12:57:05Z</when>
+				<when>2022-12-13T12:57:08Z</when>
+				<when>2022-12-13T12:57:11Z</when>
+				<when>2022-12-13T12:57:14Z</when>
+				<when>2022-12-13T12:57:17Z</when>
+				<when>2022-12-13T12:57:19Z</when>
+				<when>2022-12-13T12:57:21Z</when>
+				<when>2022-12-13T12:57:24Z</when>
+				<when>2022-12-13T12:57:26Z</when>
+				<when>2022-12-13T12:57:49Z</when>
+				<when>2022-12-13T12:58:02Z</when>
+				<when>2022-12-13T12:58:05Z</when>
+				<when>2022-12-13T12:58:07Z</when>
+				<when>2022-12-13T12:58:10Z</when>
+				<when>2022-12-13T12:58:13Z</when>
+				<when>2022-12-13T12:58:16Z</when>
+				<when>2022-12-13T12:58:18Z</when>
+				<when>2022-12-13T12:58:20Z</when>
+				<when>2022-12-13T12:58:22Z</when>
+				<when>2022-12-13T12:58:24Z</when>
+				<when>2022-12-13T12:58:26Z</when>
+				<when>2022-12-13T12:58:28Z</when>
+				<when>2022-12-13T12:58:30Z</when>
+				<when>2022-12-13T12:58:32Z</when>
+				<when>2022-12-13T12:58:34Z</when>
+				<when>2022-12-13T12:58:36Z</when>
+				<when>2022-12-13T12:58:38Z</when>
+				<when>2022-12-13T12:58:40Z</when>
+				<when>2022-12-13T12:58:42Z</when>
+				<when>2022-12-13T12:58:44Z</when>
+				<when>2022-12-13T12:58:46Z</when>
+				<when>2022-12-13T12:58:48Z</when>
+				<when>2022-12-13T12:58:50Z</when>
+				<when>2022-12-13T12:58:52Z</when>
+				<when>2022-12-13T12:58:54Z</when>
+				<when>2022-12-13T12:58:56Z</when>
+				<when>2022-12-13T12:58:58Z</when>
+				<when>2022-12-13T12:59:00Z</when>
+				<when>2022-12-13T12:59:02Z</when>
+				<when>2022-12-13T12:59:04Z</when>
+				<when>2022-12-13T12:59:06Z</when>
+				<when>2022-12-13T12:59:08Z</when>
+				<when>2022-12-13T12:59:10Z</when>
+				<when>2022-12-13T12:59:12Z</when>
+				<when>2022-12-13T12:59:14Z</when>
+				<when>2022-12-13T12:59:16Z</when>
+				<when>2022-12-13T12:59:18Z</when>
+				<when>2022-12-13T12:59:20Z</when>
+				<when>2022-12-13T12:59:22Z</when>
+				<when>2022-12-13T12:59:24Z</when>
+				<when>2022-12-13T12:59:26Z</when>
+				<when>2022-12-13T12:59:28Z</when>
+				<when>2022-12-13T12:59:30Z</when>
+				<when>2022-12-13T12:59:33Z</when>
+				<when>2022-12-13T12:59:35Z</when>
+				<when>2022-12-13T12:59:37Z</when>
+				<when>2022-12-13T12:59:39Z</when>
+				<when>2022-12-13T12:59:41Z</when>
+				<when>2022-12-13T12:59:43Z</when>
+				<when>2022-12-13T12:59:45Z</when>
+				<when>2022-12-13T12:59:47Z</when>
+				<when>2022-12-13T12:59:49Z</when>
+				<when>2022-12-13T12:59:51Z</when>
+				<when>2022-12-13T12:59:53Z</when>
+				<when>2022-12-13T12:59:55Z</when>
+				<when>2022-12-13T12:59:57Z</when>
+				<when>2022-12-13T12:59:59Z</when>
+				<when>2022-12-13T13:00:01Z</when>
+				<when>2022-12-13T13:00:04Z</when>
+				<when>2022-12-13T13:00:06Z</when>
+				<when>2022-12-13T13:00:09Z</when>
+				<when>2022-12-13T13:00:11Z</when>
+				<when>2022-12-13T13:00:13Z</when>
+				<when>2022-12-13T13:00:15Z</when>
+				<when>2022-12-13T13:00:17Z</when>
+				<when>2022-12-13T13:00:19Z</when>
+				<when>2022-12-13T13:00:23Z</when>
+				<when>2022-12-13T13:00:26Z</when>
+				<when>2022-12-13T13:00:29Z</when>
+				<when>2022-12-13T13:00:31Z</when>
+				<when>2022-12-13T13:00:34Z</when>
+				<when>2022-12-13T13:00:37Z</when>
+				<when>2022-12-13T13:00:40Z</when>
+				<when>2022-12-13T13:00:43Z</when>
+				<when>2022-12-13T13:00:46Z</when>
+				<when>2022-12-13T13:00:49Z</when>
+				<when>2022-12-13T13:00:54Z</when>
+				<when>2022-12-13T13:00:58Z</when>
+				<when>2022-12-13T13:01:02Z</when>
+				<when>2022-12-13T13:01:04Z</when>
+				<when>2022-12-13T13:01:06Z</when>
+				<when>2022-12-13T13:01:10Z</when>
+				<when>2022-12-13T13:01:18Z</when>
+				<when>2022-12-13T13:01:20Z</when>
+				<when>2022-12-13T13:01:22Z</when>
+				<when>2022-12-13T13:01:24Z</when>
+				<when>2022-12-13T13:01:26Z</when>
+				<when>2022-12-13T13:01:28Z</when>
+				<when>2022-12-13T13:01:30Z</when>
+				<when>2022-12-13T13:01:32Z</when>
+				<when>2022-12-13T13:01:34Z</when>
+				<when>2022-12-13T13:01:36Z</when>
+				<when>2022-12-13T13:01:38Z</when>
+				<when>2022-12-13T13:01:41Z</when>
+				<when>2022-12-13T13:01:43Z</when>
+				<when>2022-12-13T13:01:46Z</when>
+				<when>2022-12-13T13:01:48Z</when>
+				<when>2022-12-13T13:01:50Z</when>
+				<when>2022-12-13T13:01:53Z</when>
+				<when>2022-12-13T13:01:55Z</when>
+				<when>2022-12-13T13:01:57Z</when>
+				<when>2022-12-13T13:01:59Z</when>
+				<when>2022-12-13T13:02:01Z</when>
+				<when>2022-12-13T13:02:03Z</when>
+				<when>2022-12-13T13:02:05Z</when>
+				<when>2022-12-13T13:02:07Z</when>
+				<when>2022-12-13T13:02:10Z</when>
+				<when>2022-12-13T13:02:12Z</when>
+				<when>2022-12-13T13:02:15Z</when>
+				<when>2022-12-13T13:02:18Z</when>
+				<when>2022-12-13T13:02:20Z</when>
+				<when>2022-12-13T13:02:22Z</when>
+				<when>2022-12-13T13:02:25Z</when>
+				<when>2022-12-13T13:02:27Z</when>
+				<when>2022-12-13T13:02:29Z</when>
+				<when>2022-12-13T13:02:31Z</when>
+				<when>2022-12-13T13:02:33Z</when>
+				<when>2022-12-13T13:02:35Z</when>
+				<when>2022-12-13T13:02:37Z</when>
+				<when>2022-12-13T13:02:40Z</when>
+				<when>2022-12-13T13:02:42Z</when>
+				<when>2022-12-13T13:02:44Z</when>
+				<when>2022-12-13T13:02:46Z</when>
+				<when>2022-12-13T13:02:48Z</when>
+				<when>2022-12-13T13:02:50Z</when>
+				<when>2022-12-13T13:02:52Z</when>
+				<when>2022-12-13T13:02:54Z</when>
+				<when>2022-12-13T13:02:57Z</when>
+				<when>2022-12-13T13:03:00Z</when>
+				<when>2022-12-13T13:03:03Z</when>
+				<when>2022-12-13T13:03:05Z</when>
+				<when>2022-12-13T13:03:07Z</when>
+				<when>2022-12-13T13:03:09Z</when>
+				<when>2022-12-13T13:03:11Z</when>
+				<when>2022-12-13T13:03:13Z</when>
+				<when>2022-12-13T13:03:16Z</when>
+				<when>2022-12-13T13:03:18Z</when>
+				<when>2022-12-13T13:03:20Z</when>
+				<when>2022-12-13T13:03:22Z</when>
+				<when>2022-12-13T13:03:25Z</when>
+				<when>2022-12-13T13:03:27Z</when>
+				<when>2022-12-13T13:03:30Z</when>
+				<when>2022-12-13T13:03:32Z</when>
+				<when>2022-12-13T13:03:34Z</when>
+				<when>2022-12-13T13:03:37Z</when>
+				<when>2022-12-13T13:03:40Z</when>
+				<when>2022-12-13T13:03:51Z</when>
+				<when>2022-12-13T13:03:53Z</when>
+				<when>2022-12-13T13:03:55Z</when>
+				<when>2022-12-13T13:03:57Z</when>
+				<when>2022-12-13T13:04:00Z</when>
+				<when>2022-12-13T13:04:03Z</when>
+				<when>2022-12-13T13:04:05Z</when>
+				<when>2022-12-13T13:04:07Z</when>
+				<when>2022-12-13T13:04:10Z</when>
+				<when>2022-12-13T13:04:13Z</when>
+				<when>2022-12-13T13:04:15Z</when>
+				<when>2022-12-13T13:04:18Z</when>
+				<gx:coord>-11.39207258 12.7197866 146.537963867188</gx:coord>
+				<gx:coord>-11.39207062 12.71981449 147.124389648438</gx:coord>
+				<gx:coord>-11.39206428 12.71983892 147.276184082031</gx:coord>
+				<gx:coord>-11.3920485 12.71986113 147.7578125</gx:coord>
+				<gx:coord>-11.39203724 12.71987913 148.115295410156</gx:coord>
+				<gx:coord>-11.39202114 12.71989662 148.155700683594</gx:coord>
+				<gx:coord>-11.3920064 12.71991498 148.385559082031</gx:coord>
+				<gx:coord>-11.39199376 12.71992928 148.358947753906</gx:coord>
+				<gx:coord>-11.39197773 12.71994257 148.498657226562</gx:coord>
+				<gx:coord>-11.39196665 12.71995808 148.850402832031</gx:coord>
+				<gx:coord>-11.39195436 12.71997224 148.652893066406</gx:coord>
+				<gx:coord>-11.3919383 12.71999029 148.527893066406</gx:coord>
+				<gx:coord>-11.39192133 12.72000565 148.319641113281</gx:coord>
+				<gx:coord>-11.39190544 12.72002247 148.538330078125</gx:coord>
+				<gx:coord>-11.39188383 12.7200361 148.781860351562</gx:coord>
+				<gx:coord>-11.39186295 12.72005553 148.7314453125</gx:coord>
+				<gx:coord>-11.39184445 12.72007488 148.784118652344</gx:coord>
+				<gx:coord>-11.39182757 12.72008459 148.388793945312</gx:coord>
+				<gx:coord>-11.39181193 12.72009627 148.432373046875</gx:coord>
+				<gx:coord>-11.39179084 12.72011099 148.824096679688</gx:coord>
+				<gx:coord>-11.39177277 12.72011774 149.320434570312</gx:coord>
+				<gx:coord>-11.39175384 12.72010685 148.837951660156</gx:coord>
+				<gx:coord>-11.39174041 12.72012156 149.196411132812</gx:coord>
+				<gx:coord>-11.3917203 12.72013478 149.850524902344</gx:coord>
+				<gx:coord>-11.39170223 12.72014094 150.955749511719</gx:coord>
+				<gx:coord>-11.39168338 12.72014731 149.755065917969</gx:coord>
+				<gx:coord>-11.39166954 12.72016675 149.933959960938</gx:coord>
+				<gx:coord>-11.39164343 12.72017898 151.103637695312</gx:coord>
+				<gx:coord>-11.39162373 12.72018355 152.098693847656</gx:coord>
+				<gx:coord>-11.39160778 12.72019391 152.55517578125</gx:coord>
+				<gx:coord>-11.39158412 12.7202012 152.792724609375</gx:coord>
+				<gx:coord>-11.39156801 12.72021238 153.226196289062</gx:coord>
+				<gx:coord>-11.39154793 12.72022208 153.154907226562</gx:coord>
+				<gx:coord>-11.39153072 12.72023304 152.300109863281</gx:coord>
+				<gx:coord>-11.39151158 12.72023817 152.835693359375</gx:coord>
+				<gx:coord>-11.39149031 12.72024715 152.651733398438</gx:coord>
+				<gx:coord>-11.39146978 12.72025287 152.057434082031</gx:coord>
+				<gx:coord>-11.391449 12.72025923 152.462219238281</gx:coord>
+				<gx:coord>-11.39142954 12.72027086 152.1494140625</gx:coord>
+				<gx:coord>-11.39140581 12.72027946 151.903686523438</gx:coord>
+				<gx:coord>-11.39138669 12.72029294 151.8037109375</gx:coord>
+				<gx:coord>-11.39136723 12.72029874 152.043762207031</gx:coord>
+				<gx:coord>-11.39134607 12.72030856 151.621826171875</gx:coord>
+				<gx:coord>-11.39132367 12.72031336 151.565734863281</gx:coord>
+				<gx:coord>-11.39130537 12.72032069 151.2578125</gx:coord>
+				<gx:coord>-11.3912843 12.72032686 151.150512695312</gx:coord>
+				<gx:coord>-11.39126541 12.72033604 151.27587890625</gx:coord>
+				<gx:coord>-11.39124823 12.72034713 151.574951171875</gx:coord>
+				<gx:coord>-11.39122824 12.72035967 151.553100585938</gx:coord>
+				<gx:coord>-11.39121015 12.72036338 151.727172851562</gx:coord>
+				<gx:coord>-11.39118922 12.72037132 151.270202636719</gx:coord>
+				<gx:coord>-11.39116645 12.72037695 151.047485351562</gx:coord>
+				<gx:coord>-11.39114144 12.72038567 151.037353515625</gx:coord>
+				<gx:coord>-11.39112018 12.72039192 150.735778808594</gx:coord>
+				<gx:coord>-11.39109887 12.72039745 150.803466796875</gx:coord>
+				<gx:coord>-11.39107741 12.72040762 151.3193359375</gx:coord>
+				<gx:coord>-11.39105506 12.72041791 150.752746582031</gx:coord>
+				<gx:coord>-11.3910322 12.72042404 150.50439453125</gx:coord>
+				<gx:coord>-11.39101228 12.72043401 150.35107421875</gx:coord>
+				<gx:coord>-11.39099095 12.72043846 151.008239746094</gx:coord>
+				<gx:coord>-11.39097318 12.72045025 150.848388671875</gx:coord>
+				<gx:coord>-11.39095311 12.72045025 151.898071289062</gx:coord>
+				<gx:coord>-11.39093547 12.72044068 153.033935546875</gx:coord>
+				<gx:coord>-11.39092059 12.72042815 152.70556640625</gx:coord>
+				<gx:coord>-11.39090759 12.7204136 152.795532226562</gx:coord>
+				<gx:coord>-11.39090136 12.72038747 152.140014648438</gx:coord>
+				<gx:coord>-11.39089303 12.72036884 152.174621582031</gx:coord>
+				<gx:coord>-11.39088094 12.72035371 152.145263671875</gx:coord>
+				<gx:coord>-11.3908693 12.72033712 151.933715820312</gx:coord>
+				<gx:coord>-11.39085142 12.72032438 151.691284179688</gx:coord>
+				<gx:coord>-11.39083333 12.7203073 151.820922851562</gx:coord>
+				<gx:coord>-11.39082053 12.72029002 151.4384765625</gx:coord>
+				<gx:coord>-11.39080363 12.72027555 152.027465820312</gx:coord>
+				<gx:coord>-11.39078435 12.72025966 151.746459960938</gx:coord>
+				<gx:coord>-11.39076649 12.72024762 152.217224121094</gx:coord>
+				<gx:coord>-11.39074824 12.72023409 151.98779296875</gx:coord>
+				<gx:coord>-11.39074488 12.72020779 151.252197265625</gx:coord>
+				<gx:coord>-11.39075303 12.72018238 150.930541992188</gx:coord>
+				<gx:coord>-11.39075048 12.72015714 150.761291503906</gx:coord>
+				<gx:coord>-11.39074728 12.72013491 150.725952148438</gx:coord>
+				<gx:coord>-11.39073582 12.72010806 149.968994140625</gx:coord>
+				<gx:coord>-11.39072884 12.72009006 150.527404785156</gx:coord>
+				<gx:coord>-11.39070784 12.72007525 150.659240722656</gx:coord>
+				<gx:coord>-11.39069802 12.72005791 151.262939453125</gx:coord>
+				<gx:coord>-11.3907005 12.72003889 150.248779296875</gx:coord>
+				<gx:coord>-11.3907063 12.72002154 151.094482421875</gx:coord>
+				<gx:coord>-11.39070918 12.72000018 151.294555664062</gx:coord>
+				<gx:coord>-11.39071276 12.71997914 151.559265136719</gx:coord>
+				<gx:coord>-11.39073402 12.71996674 150.148132324219</gx:coord>
+				<gx:coord>-11.39074361 12.71994373 150.626586914062</gx:coord>
+				<gx:coord>-11.39074521 12.71992362 150.201904296875</gx:coord>
+				<gx:coord>-11.39072757 12.7199123 149.180480957031</gx:coord>
+				<gx:coord>-11.3907075 12.71989546 150.302001953125</gx:coord>
+				<gx:coord>-11.39070999 12.71986934 150.153869628906</gx:coord>
+				<gx:coord>-11.39072999 12.71985469 149.942565917969</gx:coord>
+				<gx:coord>-11.39075058 12.71983908 150.558532714844</gx:coord>
+				<gx:coord>-11.39076791 12.71982483 150.638305664062</gx:coord>
+				<gx:coord>-11.39076789 12.71980458 151.263977050781</gx:coord>
+				<gx:coord>-11.39078895 12.71980035 153.2578125</gx:coord>
+				<gx:coord>-11.3908012 12.71978461 152.948852539062</gx:coord>
+				<gx:coord>-11.39079841 12.71976229 153.236938476562</gx:coord>
+				<gx:coord>-11.39080136 12.71974349 153.023193359375</gx:coord>
+				<gx:coord>-11.39081537 12.71973122 153.31005859375</gx:coord>
+				<gx:coord>-11.39082999 12.71971453 152.703735351562</gx:coord>
+				<gx:coord>-11.3908556 12.71972341 151.751708984375</gx:coord>
+				<gx:coord>-11.39087966 12.71973224 152.35546875</gx:coord>
+				<gx:coord>-11.3909055 12.71973916 150.866333007812</gx:coord>
+				<gx:coord>-11.39093109 12.71975309 150.505981445312</gx:coord>
+				<gx:coord>-11.39094906 12.71976836 150.207763671875</gx:coord>
+				<gx:coord>-11.39096683 12.71977845 150.064270019531</gx:coord>
+				<gx:coord>-11.39099244 12.71977868 150.455993652344</gx:coord>
+				<gx:coord>-11.39100497 12.71976225 150.061279296875</gx:coord>
+				<gx:coord>-11.39101596 12.71974727 149.734741210938</gx:coord>
+				<gx:coord>-11.39103957 12.71974145 149.586730957031</gx:coord>
+				<gx:coord>-11.39105779 12.71973841 149.855285644531</gx:coord>
+				<gx:coord>-11.39108492 12.71973847 149.517150878906</gx:coord>
+				<gx:coord>-11.39110313 12.7197284 149.570861816406</gx:coord>
+				<gx:coord>-11.39112608 12.7197121 149.341064453125</gx:coord>
+				<gx:coord>-11.39114579 12.71970568 150.265991210938</gx:coord>
+				<gx:coord>-11.3911609 12.71969505 150.921752929688</gx:coord>
+				<gx:coord>-11.39117611 12.71967879 151.204956054688</gx:coord>
+				<gx:coord>-11.39118676 12.71966135 150.994018554688</gx:coord>
+				<gx:coord>-11.39120663 12.71965672 152.093994140625</gx:coord>
+				<gx:coord>-11.39122706 12.71965912 152.084594726562</gx:coord>
+				<gx:coord>-11.3912446 12.7196681 152.0087890625</gx:coord>
+				<gx:coord>-11.39126285 12.71967149 151.40234375</gx:coord>
+				<gx:coord>-11.39128466 12.71967547 151.107360839844</gx:coord>
+				<gx:coord>-11.39130319 12.71968021 151.085998535156</gx:coord>
+				<gx:coord>-11.39132446 12.71967507 150.551147460938</gx:coord>
+				<gx:coord>-11.39134384 12.71967371 150.815795898438</gx:coord>
+				<gx:coord>-11.39136897 12.71966752 150.73388671875</gx:coord>
+				<gx:coord>-11.39139419 12.71966343 150.76220703125</gx:coord>
+				<gx:coord>-11.3914184 12.71966328 150.300476074219</gx:coord>
+				<gx:coord>-11.39143887 12.71965789 150.453369140625</gx:coord>
+				<gx:coord>-11.39146247 12.71964143 151.412109375</gx:coord>
+				<gx:coord>-11.39148264 12.71963598 151.567138671875</gx:coord>
+				<gx:coord>-11.39150673 12.71963632 151.215881347656</gx:coord>
+				<gx:coord>-11.39152852 12.7196353 150.370361328125</gx:coord>
+				<gx:coord>-11.39154912 12.7196385 150.4189453125</gx:coord>
+				<gx:coord>-11.39156827 12.71964219 150.214477539062</gx:coord>
+				<gx:coord>-11.39158674 12.71964197 149.987915039062</gx:coord>
+				<gx:coord>-11.39161079 12.71963822 151.244018554688</gx:coord>
+				<gx:coord>-11.39163242 12.71964531 151.137878417969</gx:coord>
+				<gx:coord>-11.39165542 12.71963941 150.879516601562</gx:coord>
+				<gx:coord>-11.39168022 12.71963918 150.614685058594</gx:coord>
+				<gx:coord>-11.39169913 12.71964314 150.489318847656</gx:coord>
+				<gx:coord>-11.39172178 12.71964814 150.94775390625</gx:coord>
+				<gx:coord>-11.39174344 12.71965094 150.798400878906</gx:coord>
+				<gx:coord>-11.39176153 12.71965811 150.824340820312</gx:coord>
+				<gx:coord>-11.39178612 12.71966167 151.053466796875</gx:coord>
+				<gx:coord>-11.39181207 12.71966807 149.653991699219</gx:coord>
+				<gx:coord>-11.3918374 12.71967017 150.333984375</gx:coord>
+				<gx:coord>-11.39185931 12.71966472 149.853149414062</gx:coord>
+				<gx:coord>-11.39188406 12.7196649 149.552001953125</gx:coord>
+				<gx:coord>-11.39190678 12.71967055 149.285095214844</gx:coord>
+				<gx:coord>-11.39192956 12.71967155 148.833435058594</gx:coord>
+				<gx:coord>-11.39194835 12.71967353 149.522277832031</gx:coord>
+				<gx:coord>-11.39197085 12.71968578 150.015319824219</gx:coord>
+				<gx:coord>-11.39199009 12.71969479 149.728271484375</gx:coord>
+				<gx:coord>-11.39201088 12.71969635 150.207397460938</gx:coord>
+				<gx:coord>-11.39202923 12.71968952 150.759460449219</gx:coord>
+				<gx:coord>-11.39205239 12.7196873 151.217041015625</gx:coord>
+				<gx:coord>-11.3920711 12.71969329 151.267456054688</gx:coord>
+				<gx:coord>-11.3920968 12.71969422 151.337646484375</gx:coord>
+				<gx:coord>-11.39211701 12.71969459 150.703857421875</gx:coord>
+				<gx:coord>-11.39213774 12.71970472 150.990051269531</gx:coord>
+				<gx:coord>-11.39215305 12.71971729 151.264953613281</gx:coord>
+				<gx:coord>-11.39216055 12.71973662 151.074401855469</gx:coord>
+				<gx:coord>-11.39217168 12.71972036 150.625</gx:coord>
+				<gx:coord>-11.39219242 12.71972779 151.326049804688</gx:coord>
+				<gx:coord>-11.39219163 12.71975653 151.249633789062</gx:coord>
+				<gx:coord>-11.39217911 12.71977403 151.956909179688</gx:coord>
+				<gx:coord>-11.39216515 12.71979314 150.248779296875</gx:coord>
+				<gx:coord>-11.39214143 12.71980513 149.246276855469</gx:coord>
+				<gx:coord>-11.39212372 12.71981306 149.765502929688</gx:coord>
+				<gx:coord>-11.39210508 12.71982879 148.362060546875</gx:coord>
+				<gx:coord>-11.39208892 12.71984918 147.46484375</gx:coord>
+				<gx:coord>-11.39206471 12.7198533 147.3876953125</gx:coord>
+				<gx:coord>-11.39204593 12.71986006 147.233459472656</gx:coord>
+				<gx:coord>-11.39202377 12.71987161 145.649536132812</gx:coord>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>2.299999952316284 0 0</gx:angles>
+				<gx:angles>31.79999923706055 0 0</gx:angles>
+				<gx:angles>50.70000076293945 0 0</gx:angles>
+				<gx:angles>43.5 0 0</gx:angles>
+				<gx:angles>43.40000152587891 0 0</gx:angles>
+				<gx:angles>47.20000076293945 0 0</gx:angles>
+				<gx:angles>45.20000076293945 0 0</gx:angles>
+				<gx:angles>74.19999694824219 0 0</gx:angles>
+				<gx:angles>51.79999923706055 0 0</gx:angles>
+				<gx:angles>42.90000152587891 0 0</gx:angles>
+				<gx:angles>36 0 0</gx:angles>
+				<gx:angles>44.79999923706055 0 0</gx:angles>
+				<gx:angles>35 0 0</gx:angles>
+				<gx:angles>67.80000305175781 0 0</gx:angles>
+				<gx:angles>62.09999847412109 0 0</gx:angles>
+				<gx:angles>52.40000152587891 0 0</gx:angles>
+				<gx:angles>55.59999847412109 0 0</gx:angles>
+				<gx:angles>43.59999847412109 0 0</gx:angles>
+				<gx:angles>60.5 0 0</gx:angles>
+				<gx:angles>70.59999847412109 0 0</gx:angles>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>45.09999847412109 0 0</gx:angles>
+				<gx:angles>51.59999847412109 0 0</gx:angles>
+				<gx:angles>105.5999984741211 0 0</gx:angles>
+				<gx:angles>67.40000152587891 0 0</gx:angles>
+				<gx:angles>29.89999961853027 0 0</gx:angles>
+				<gx:angles>70.09999847412109 0 0</gx:angles>
+				<gx:angles>76.69999694824219 0 0</gx:angles>
+				<gx:angles>63.40000152587891 0 0</gx:angles>
+				<gx:angles>74.69999694824219 0 0</gx:angles>
+				<gx:angles>61.90000152587891 0 0</gx:angles>
+				<gx:angles>68.80000305175781 0 0</gx:angles>
+				<gx:angles>46.29999923706055 0 0</gx:angles>
+				<gx:angles>75.90000152587891 0 0</gx:angles>
+				<gx:angles>70.90000152587891 0 0</gx:angles>
+				<gx:angles>73.30000305175781 0 0</gx:angles>
+				<gx:angles>61.40000152587891 0 0</gx:angles>
+				<gx:angles>74.5 0 0</gx:angles>
+				<gx:angles>60.09999847412109 0 0</gx:angles>
+				<gx:angles>64.09999847412109 0 0</gx:angles>
+				<gx:angles>76.90000152587891 0 0</gx:angles>
+				<gx:angles>64.30000305175781 0 0</gx:angles>
+				<gx:angles>75 0 0</gx:angles>
+				<gx:angles>47.59999847412109 0 0</gx:angles>
+				<gx:angles>71.40000152587891 0 0</gx:angles>
+				<gx:angles>61.5 0 0</gx:angles>
+				<gx:angles>63.79999923706055 0 0</gx:angles>
+				<gx:angles>58.20000076293945 0 0</gx:angles>
+				<gx:angles>73.40000152587891 0 0</gx:angles>
+				<gx:angles>66.90000152587891 0 0</gx:angles>
+				<gx:angles>75.5 0 0</gx:angles>
+				<gx:angles>70.5 0 0</gx:angles>
+				<gx:angles>69.90000152587891 0 0</gx:angles>
+				<gx:angles>61.20000076293945 0 0</gx:angles>
+				<gx:angles>59.59999847412109 0 0</gx:angles>
+				<gx:angles>68.69999694824219 0 0</gx:angles>
+				<gx:angles>83.09999847412109 0 0</gx:angles>
+				<gx:angles>59.40000152587891 0 0</gx:angles>
+				<gx:angles>68.40000152587891 0 0</gx:angles>
+				<gx:angles>71.40000152587891 0 0</gx:angles>
+				<gx:angles>106.0999984741211 0 0</gx:angles>
+				<gx:angles>132.1000061035156 0 0</gx:angles>
+				<gx:angles>118.6999969482422 0 0</gx:angles>
+				<gx:angles>130.8000030517578 0 0</gx:angles>
+				<gx:angles>178.8000030517578 0 0</gx:angles>
+				<gx:angles>149.1000061035156 0 0</gx:angles>
+				<gx:angles>151.5 0 0</gx:angles>
+				<gx:angles>148.1000061035156 0 0</gx:angles>
+				<gx:angles>134.6000061035156 0 0</gx:angles>
+				<gx:angles>131.1999969482422 0 0</gx:angles>
+				<gx:angles>153.1000061035156 0 0</gx:angles>
+				<gx:angles>128.3999938964844 0 0</gx:angles>
+				<gx:angles>144.1000061035156 0 0</gx:angles>
+				<gx:angles>130.8000030517578 0 0</gx:angles>
+				<gx:angles>133 0 0</gx:angles>
+				<gx:angles>175.6999969482422 0 0</gx:angles>
+				<gx:angles>209.6000061035156 0 0</gx:angles>
+				<gx:angles>177.1000061035156 0 0</gx:angles>
+				<gx:angles>168.1000061035156 0 0</gx:angles>
+				<gx:angles>151.5 0 0</gx:angles>
+				<gx:angles>156 0 0</gx:angles>
+				<gx:angles>117.3000030517578 0 0</gx:angles>
+				<gx:angles>163 0 0</gx:angles>
+				<gx:angles>197.1999969482422 0 0</gx:angles>
+				<gx:angles>188.6999969482422 0 0</gx:angles>
+				<gx:angles>155.3000030517578 0 0</gx:angles>
+				<gx:angles>208.3999938964844 0 0</gx:angles>
+				<gx:angles>232.5 0 0</gx:angles>
+				<gx:angles>206.6000061035156 0 0</gx:angles>
+				<gx:angles>168.1000061035156 0 0</gx:angles>
+				<gx:angles>127.0999984741211 0 0</gx:angles>
+				<gx:angles>155.1000061035156 0 0</gx:angles>
+				<gx:angles>211.8999938964844 0 0</gx:angles>
+				<gx:angles>208.1000061035156 0 0</gx:angles>
+				<gx:angles>225.3000030517578 0 0</gx:angles>
+				<gx:angles>224.6999969482422 0 0</gx:angles>
+				<gx:angles>189.6000061035156 0 0</gx:angles>
+				<gx:angles>246.8999938964844 0 0</gx:angles>
+				<gx:angles>200.5 0 0</gx:angles>
+				<gx:angles>178.1000061035156 0 0</gx:angles>
+				<gx:angles>197.3999938964844 0 0</gx:angles>
+				<gx:angles>233.3999938964844 0 0</gx:angles>
+				<gx:angles>199.1999969482422 0 0</gx:angles>
+				<gx:angles>283.2999877929688 0 0</gx:angles>
+				<gx:angles>297.6000061035156 0 0</gx:angles>
+				<gx:angles>283 0 0</gx:angles>
+				<gx:angles>300.2999877929688 0 0</gx:angles>
+				<gx:angles>313.2999877929688 0 0</gx:angles>
+				<gx:angles>290 0 0</gx:angles>
+				<gx:angles>260 0 0</gx:angles>
+				<gx:angles>223 0 0</gx:angles>
+				<gx:angles>231.1000061035156 0 0</gx:angles>
+				<gx:angles>260.8999938964844 0 0</gx:angles>
+				<gx:angles>262.2000122070313 0 0</gx:angles>
+				<gx:angles>282 0 0</gx:angles>
+				<gx:angles>245.6999969482422 0 0</gx:angles>
+				<gx:angles>254.8000030517578 0 0</gx:angles>
+				<gx:angles>265.3999938964844 0 0</gx:angles>
+				<gx:angles>258.2000122070313 0 0</gx:angles>
+				<gx:angles>206.1000061035156 0 0</gx:angles>
+				<gx:angles>217.5 0 0</gx:angles>
+				<gx:angles>256 0 0</gx:angles>
+				<gx:angles>283.6000061035156 0 0</gx:angles>
+				<gx:angles>284.7999877929688 0 0</gx:angles>
+				<gx:angles>269.5 0 0</gx:angles>
+				<gx:angles>272.6000061035156 0 0</gx:angles>
+				<gx:angles>287.5 0 0</gx:angles>
+				<gx:angles>259.7000122070313 0 0</gx:angles>
+				<gx:angles>257.3999938964844 0 0</gx:angles>
+				<gx:angles>249.3000030517578 0 0</gx:angles>
+				<gx:angles>263.7999877929688 0 0</gx:angles>
+				<gx:angles>269.7999877929688 0 0</gx:angles>
+				<gx:angles>243.3000030517578 0 0</gx:angles>
+				<gx:angles>234.8000030517578 0 0</gx:angles>
+				<gx:angles>281.7000122070313 0 0</gx:angles>
+				<gx:angles>254.1999969482422 0 0</gx:angles>
+				<gx:angles>269.7999877929688 0 0</gx:angles>
+				<gx:angles>283 0 0</gx:angles>
+				<gx:angles>274.8999938964844 0 0</gx:angles>
+				<gx:angles>272.8999938964844 0 0</gx:angles>
+				<gx:angles>264.3999938964844 0 0</gx:angles>
+				<gx:angles>296.2999877929688 0 0</gx:angles>
+				<gx:angles>252.8999938964844 0 0</gx:angles>
+				<gx:angles>286.1000061035156 0 0</gx:angles>
+				<gx:angles>281.8999938964844 0 0</gx:angles>
+				<gx:angles>281.5 0 0</gx:angles>
+				<gx:angles>281.7000122070313 0 0</gx:angles>
+				<gx:angles>306.6000061035156 0 0</gx:angles>
+				<gx:angles>261.5 0 0</gx:angles>
+				<gx:angles>283.2000122070313 0 0</gx:angles>
+				<gx:angles>264.2000122070313 0 0</gx:angles>
+				<gx:angles>256.3999938964844 0 0</gx:angles>
+				<gx:angles>282.1000061035156 0 0</gx:angles>
+				<gx:angles>287.1000061035156 0 0</gx:angles>
+				<gx:angles>268.8999938964844 0 0</gx:angles>
+				<gx:angles>268.6000061035156 0 0</gx:angles>
+				<gx:angles>303.7000122070313 0 0</gx:angles>
+				<gx:angles>291 0 0</gx:angles>
+				<gx:angles>271.2999877929688 0 0</gx:angles>
+				<gx:angles>260.5 0 0</gx:angles>
+				<gx:angles>260.7999877929688 0 0</gx:angles>
+				<gx:angles>283.3999938964844 0 0</gx:angles>
+				<gx:angles>266.3999938964844 0 0</gx:angles>
+				<gx:angles>279.8999938964844 0 0</gx:angles>
+				<gx:angles>304.7999877929688 0 0</gx:angles>
+				<gx:angles>307.5 0 0</gx:angles>
+				<gx:angles>353.6000061035156 0 0</gx:angles>
+				<gx:angles>234.3999938964844 0 0</gx:angles>
+				<gx:angles>298.8999938964844 0 0</gx:angles>
+				<gx:angles>14 0 0</gx:angles>
+				<gx:angles>19.20000076293945 0 0</gx:angles>
+				<gx:angles>35.79999923706055 0 0</gx:angles>
+				<gx:angles>45.59999847412109 0 0</gx:angles>
+				<gx:angles>54.20000076293945 0 0</gx:angles>
+				<gx:angles>41.20000076293945 0 0</gx:angles>
+				<gx:angles>36.90000152587891 0 0</gx:angles>
+				<gx:angles>86.69999694824219 0 0</gx:angles>
+				<gx:angles>66.59999847412109 0 0</gx:angles>
+				<gx:angles>66.5 0 0</gx:angles>
+				<ExtendedData>
+					<SchemaData schemaUrl="#track_schema">
+						<gx:SimpleArrayData kml:name="speed">
+							<gx:value>0</gx:value>
+							<gx:value>0.777126</gx:value>
+							<gx:value>0.934061</gx:value>
+							<gx:value>1.00159</gx:value>
+							<gx:value>1.17236</gx:value>
+							<gx:value>1.30689</gx:value>
+							<gx:value>1.29653</gx:value>
+							<gx:value>1.04977</gx:value>
+							<gx:value>0.760625</gx:value>
+							<gx:value>1.05103</gx:value>
+							<gx:value>1.03152</gx:value>
+							<gx:value>0.885862</gx:value>
+							<gx:value>0.837003</gx:value>
+							<gx:value>0.847778</gx:value>
+							<gx:value>0.930418</gx:value>
+							<gx:value>1.04334</gx:value>
+							<gx:value>0.980703</gx:value>
+							<gx:value>1.06278</gx:value>
+							<gx:value>1.06824</gx:value>
+							<gx:value>0.937606</gx:value>
+							<gx:value>1.04939</gx:value>
+							<gx:value>0.103641</gx:value>
+							<gx:value>0.168484</gx:value>
+							<gx:value>0.876783</gx:value>
+							<gx:value>1.03811</gx:value>
+							<gx:value>0.721266</gx:value>
+							<gx:value>0.877252</gx:value>
+							<gx:value>1.04721</gx:value>
+							<gx:value>1.09819</gx:value>
+							<gx:value>1.03924</gx:value>
+							<gx:value>1.34564</gx:value>
+							<gx:value>1.07224</gx:value>
+							<gx:value>1.21522</gx:value>
+							<gx:value>1.11465</gx:value>
+							<gx:value>1.07649</gx:value>
+							<gx:value>1.25694</gx:value>
+							<gx:value>1.15793</gx:value>
+							<gx:value>1.18113</gx:value>
+							<gx:value>1.2377</gx:value>
+							<gx:value>1.3729</gx:value>
+							<gx:value>1.27942</gx:value>
+							<gx:value>1.10354</gx:value>
+							<gx:value>1.27082</gx:value>
+							<gx:value>1.24378</gx:value>
+							<gx:value>1.07288</gx:value>
+							<gx:value>1.19307</gx:value>
+							<gx:value>1.14456</gx:value>
+							<gx:value>1.11726</gx:value>
+							<gx:value>1.28895</gx:value>
+							<gx:value>1.00252</gx:value>
+							<gx:value>1.21791</gx:value>
+							<gx:value>1.27394</gx:value>
+							<gx:value>1.4404</gx:value>
+							<gx:value>1.20422</gx:value>
+							<gx:value>1.1959</gx:value>
+							<gx:value>1.29392</gx:value>
+							<gx:value>1.34033</gx:value>
+							<gx:value>1.28576</gx:value>
+							<gx:value>1.21423</gx:value>
+							<gx:value>1.18295</gx:value>
+							<gx:value>1.16552</gx:value>
+							<gx:value>1.08845</gx:value>
+							<gx:value>1.09467</gx:value>
+							<gx:value>1.06608</gx:value>
+							<gx:value>1.07306</gx:value>
+							<gx:value>0.994356</gx:value>
+							<gx:value>1.13001</gx:value>
+							<gx:value>1.06654</gx:value>
+							<gx:value>1.1177</gx:value>
+							<gx:value>1.20083</gx:value>
+							<gx:value>1.36538</gx:value>
+							<gx:value>1.18528</gx:value>
+							<gx:value>1.21953</gx:value>
+							<gx:value>1.36886</gx:value>
+							<gx:value>1.1774</gx:value>
+							<gx:value>1.24317</gx:value>
+							<gx:value>1.47352</gx:value>
+							<gx:value>1.48026</gx:value>
+							<gx:value>1.41008</gx:value>
+							<gx:value>1.24806</gx:value>
+							<gx:value>1.078</gx:value>
+							<gx:value>1.06996</gx:value>
+							<gx:value>0.936912</gx:value>
+							<gx:value>1.10138</gx:value>
+							<gx:value>1.06598</gx:value>
+							<gx:value>1.01461</gx:value>
+							<gx:value>1.19779</gx:value>
+							<gx:value>1.18577</gx:value>
+							<gx:value>0.671691</gx:value>
+							<gx:value>0.920652</gx:value>
+							<gx:value>0.747618</gx:value>
+							<gx:value>1.14513</gx:value>
+							<gx:value>0.957154</gx:value>
+							<gx:value>0.972314</gx:value>
+							<gx:value>0.904287</gx:value>
+							<gx:value>0.942841</gx:value>
+							<gx:value>0.819489</gx:value>
+							<gx:value>0.750566</gx:value>
+							<gx:value>0.466443</gx:value>
+							<gx:value>0.549357</gx:value>
+							<gx:value>0.625063</gx:value>
+							<gx:value>1.05741</gx:value>
+							<gx:value>1.02111</gx:value>
+							<gx:value>0.610268</gx:value>
+							<gx:value>0.368511</gx:value>
+							<gx:value>1.39414</gx:value>
+							<gx:value>1.45323</gx:value>
+							<gx:value>1.5893</gx:value>
+							<gx:value>1.29249</gx:value>
+							<gx:value>1.1151</gx:value>
+							<gx:value>1.38897</gx:value>
+							<gx:value>1.13851</gx:value>
+							<gx:value>1.02415</gx:value>
+							<gx:value>1.32069</gx:value>
+							<gx:value>1.00248</gx:value>
+							<gx:value>0.980897</gx:value>
+							<gx:value>1.13524</gx:value>
+							<gx:value>1.02641</gx:value>
+							<gx:value>1.12695</gx:value>
+							<gx:value>1.01035</gx:value>
+							<gx:value>0.815864</gx:value>
+							<gx:value>1.12861</gx:value>
+							<gx:value>1.10793</gx:value>
+							<gx:value>1.11599</gx:value>
+							<gx:value>1.07431</gx:value>
+							<gx:value>1.00754</gx:value>
+							<gx:value>1.20334</gx:value>
+							<gx:value>1.03892</gx:value>
+							<gx:value>0.792272</gx:value>
+							<gx:value>1.05375</gx:value>
+							<gx:value>0.937104</gx:value>
+							<gx:value>0.924354</gx:value>
+							<gx:value>1.31301</gx:value>
+							<gx:value>1.14989</gx:value>
+							<gx:value>1.04894</gx:value>
+							<gx:value>1.13507</gx:value>
+							<gx:value>1.30661</gx:value>
+							<gx:value>1.1831</gx:value>
+							<gx:value>1.13128</gx:value>
+							<gx:value>1.05863</gx:value>
+							<gx:value>1.00176</gx:value>
+							<gx:value>0.880575</gx:value>
+							<gx:value>1.23752</gx:value>
+							<gx:value>1.28977</gx:value>
+							<gx:value>1.34504</gx:value>
+							<gx:value>1.04891</gx:value>
+							<gx:value>1.25944</gx:value>
+							<gx:value>1.18496</gx:value>
+							<gx:value>1.05897</gx:value>
+							<gx:value>0.898799</gx:value>
+							<gx:value>0.967755</gx:value>
+							<gx:value>0.919117</gx:value>
+							<gx:value>1.22627</gx:value>
+							<gx:value>1.34231</gx:value>
+							<gx:value>1.27159</gx:value>
+							<gx:value>1.23668</gx:value>
+							<gx:value>1.02497</gx:value>
+							<gx:value>0.931629</gx:value>
+							<gx:value>1.15746</gx:value>
+							<gx:value>1.13084</gx:value>
+							<gx:value>1.06516</gx:value>
+							<gx:value>0.841391</gx:value>
+							<gx:value>1.06795</gx:value>
+							<gx:value>0.929832</gx:value>
+							<gx:value>1.09624</gx:value>
+							<gx:value>1.25743</gx:value>
+							<gx:value>0.723515</gx:value>
+							<gx:value>0.766064</gx:value>
+							<gx:value>0.197638</gx:value>
+							<gx:value>1.19825</gx:value>
+							<gx:value>1.59845</gx:value>
+							<gx:value>1.18646</gx:value>
+							<gx:value>0.869745</gx:value>
+							<gx:value>0.965912</gx:value>
+							<gx:value>1.05682</gx:value>
+							<gx:value>1.3367</gx:value>
+							<gx:value>0.955268</gx:value>
+							<gx:value>0.888542</gx:value>
+							<gx:value>1.08563</gx:value>
+							<gx:value>0.908403</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="horizontal_accuracy">
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="vertical_accuracy">
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>4</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="source">
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+						</gx:SimpleArrayData>
+					</SchemaData>
+				</ExtendedData>
+			</gx:Track>
+		</Placemark>
+		<Placemark>
+			<name>Maïzena farm</name>
+			<TimeStamp><when>2022-12-13T12:25:54Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Maïzena farm.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3915771716318,12.721632001718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nere tree</name>
+			<TimeStamp><when>2022-12-13T13:19:17Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Nere tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3918266,12.71969997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Placemark 1</name>
+			<TimeStamp><when>2022-12-13T10:55:48Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Placemark 1.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39194789,12.72089053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Placemark 2</name>
+			<TimeStamp><when>2022-12-13T10:58:48Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Placemark 2.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.391780647208,12.7213958843894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quinsa kanouté farm</name>
+			<TimeStamp><when>2022-12-13T12:47:25Z</when>
+</TimeStamp>
+			<styleUrl>#style20</styleUrl>
+			<Point>
+				<coordinates>-11.3923477,12.72074776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ronier</name>
+			<TimeStamp><when>2022-12-13T14:14:15Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<Point>
+				<coordinates>-11.39687996,12.72496045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saba senegalensis</name>
+			<TimeStamp><when>2022-12-13T11:31:06Z</when>
+</TimeStamp>
+			<styleUrl>#style14</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">One tree</SimpleData>
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Saba senegalensis.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39228573,12.72221757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seydou Coulibaly Tel 72739758</name>
+			<TimeStamp><when>2022-12-13T11:07:17Z</when>
+</TimeStamp>
+			<styleUrl>#style19</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="Description">1)	Verify the name of the landowner and find out which village or hamlet they reside: Seydou Coulibaly Tel: 72739758
+2)	Find out how much land they own elsewhere outside the Project area : D&apos;autres champs ailleurs à environ 2km 
+3)	Verify that the land boundaries are correct and if not take GPS recordings of any necessary corrections 
+4)	Take a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Arachide, coton et maïs mil, bagalingho (pour faire du savon). Land in good conditions
+5)	Survey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees): 42 young cashew plants
+6)	Identify any of the following assets within each land parcel: 
+a)	Physical structures (grain stores etc)
+b)	Spirit trees/cultural heritage sites. No 
+c)	Wells</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3923570658744,12.7219712489508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shea trea</name>
+			<TimeStamp><when>2022-12-13T12:09:47Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Shea trea.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39180191,12.72126356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shea tree</name>
+			<TimeStamp><when>2022-12-13T12:08:27Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Shea tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3917917986652,12.7213372274806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shea tree</name>
+			<TimeStamp><when>2022-12-13T12:09:17Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Shea tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39178898,12.72130996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shea tree</name>
+			<TimeStamp><when>2022-12-13T12:11:10Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/2_Shea tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39167612,12.72131915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shea tree</name>
+			<TimeStamp><when>2022-12-13T12:27:05Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/3_Shea tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39158561,12.72190814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sorghum</name>
+			<TimeStamp><when>2022-12-13T11:19:24Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Sorghum.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39268128,12.72233037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Souadou Diallo farm</name>
+			<TimeStamp><when>2022-12-13T12:45:41Z</when>
+</TimeStamp>
+			<styleUrl>#style20</styleUrl>
+			<Point>
+				<coordinates>-11.392180369573,12.7208212589606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Track 1</name>
+			<TimeStamp><when>2022-12-13T12:48:25Z</when>
+</TimeStamp>
+			<styleUrl>#style17</styleUrl>
+			<gx:Track>
+				<when>2022-12-13T12:48:26Z</when>
+				<when>2022-12-13T12:48:29Z</when>
+				<when>2022-12-13T12:48:31Z</when>
+				<when>2022-12-13T12:48:33Z</when>
+				<when>2022-12-13T12:48:35Z</when>
+				<when>2022-12-13T12:48:37Z</when>
+				<when>2022-12-13T12:48:39Z</when>
+				<when>2022-12-13T12:48:41Z</when>
+				<when>2022-12-13T12:48:43Z</when>
+				<when>2022-12-13T12:48:45Z</when>
+				<when>2022-12-13T12:48:47Z</when>
+				<when>2022-12-13T12:48:49Z</when>
+				<when>2022-12-13T12:48:52Z</when>
+				<when>2022-12-13T12:48:55Z</when>
+				<when>2022-12-13T12:48:58Z</when>
+				<when>2022-12-13T12:49:01Z</when>
+				<gx:coord>-11.39228683 12.72089266 155.009887695312</gx:coord>
+				<gx:coord>-11.39228758 12.72086643 155.536254882812</gx:coord>
+				<gx:coord>-11.39228147 12.72084433 155.776245117188</gx:coord>
+				<gx:coord>-11.39228145 12.72082109 155.34375</gx:coord>
+				<gx:coord>-11.39228218 12.72079418 154.638366699219</gx:coord>
+				<gx:coord>-11.3922852 12.72077226 153.722412109375</gx:coord>
+				<gx:coord>-11.39228569 12.7207538 153.506225585938</gx:coord>
+				<gx:coord>-11.39228547 12.72073184 153.185974121094</gx:coord>
+				<gx:coord>-11.39228877 12.72071112 153.674682617188</gx:coord>
+				<gx:coord>-11.39228958 12.72068854 153.801025390625</gx:coord>
+				<gx:coord>-11.39228836 12.72066893 153.990539550781</gx:coord>
+				<gx:coord>-11.392291 12.72064864 154.543823242188</gx:coord>
+				<gx:coord>-11.39228817 12.72062138 153.655700683594</gx:coord>
+				<gx:coord>-11.39229154 12.720597 154.200073242188</gx:coord>
+				<gx:coord>-11.39229264 12.72057085 153.635192871094</gx:coord>
+				<gx:coord>-11.39228196 12.72055086 153.074584960938</gx:coord>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>178.3000030517578 0 0</gx:angles>
+				<gx:angles>171.3000030517578 0 0</gx:angles>
+				<gx:angles>179 0 0</gx:angles>
+				<gx:angles>178.6999969482422 0 0</gx:angles>
+				<gx:angles>170.5 0 0</gx:angles>
+				<gx:angles>181.3000030517578 0 0</gx:angles>
+				<gx:angles>175.8999938964844 0 0</gx:angles>
+				<gx:angles>192.6000061035156 0 0</gx:angles>
+				<gx:angles>176.6000061035156 0 0</gx:angles>
+				<gx:angles>182 0 0</gx:angles>
+				<gx:angles>186.3000030517578 0 0</gx:angles>
+				<gx:angles>180.8999938964844 0 0</gx:angles>
+				<gx:angles>191.1999969482422 0 0</gx:angles>
+				<gx:angles>174.3000030517578 0 0</gx:angles>
+				<gx:angles>142.3999938964844 0 0</gx:angles>
+				<ExtendedData>
+					<SchemaData schemaUrl="#track_schema">
+						<gx:SimpleArrayData kml:name="speed">
+							<gx:value>0</gx:value>
+							<gx:value>0.972592</gx:value>
+							<gx:value>1.2726</gx:value>
+							<gx:value>1.29209</gx:value>
+							<gx:value>1.49665</gx:value>
+							<gx:value>1.22965</gx:value>
+							<gx:value>1.02667</gx:value>
+							<gx:value>1.22098</gx:value>
+							<gx:value>1.1658</gx:value>
+							<gx:value>1.25616</gx:value>
+							<gx:value>1.09227</gx:value>
+							<gx:value>1.13712</gx:value>
+							<gx:value>1.01556</gx:value>
+							<gx:value>0.911821</gx:value>
+							<gx:value>0.970065</gx:value>
+							<gx:value>0.835511</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="horizontal_accuracy">
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="vertical_accuracy">
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="source">
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+						</gx:SimpleArrayData>
+					</SchemaData>
+				</ExtendedData>
+			</gx:Track>
+		</Placemark>
+		<Placemark>
+			<name>Track 3</name>
+			<TimeStamp><when>2022-12-13T13:35:26Z</when>
+</TimeStamp>
+			<styleUrl>#style17</styleUrl>
+			<gx:Track>
+				<when>2022-12-13T13:35:27Z</when>
+				<when>2022-12-13T13:35:30Z</when>
+				<when>2022-12-13T13:35:33Z</when>
+				<when>2022-12-13T13:35:36Z</when>
+				<when>2022-12-13T13:35:38Z</when>
+				<when>2022-12-13T13:35:41Z</when>
+				<when>2022-12-13T13:35:44Z</when>
+				<when>2022-12-13T13:35:47Z</when>
+				<gx:coord>-11.39167108 12.7201994 156.692260742188</gx:coord>
+				<gx:coord>-11.39166733 12.72021893 155.791931152344</gx:coord>
+				<gx:coord>-11.39167745 12.72024279 156.498168945312</gx:coord>
+				<gx:coord>-11.39167356 12.72027106 156.46484375</gx:coord>
+				<gx:coord>-11.39167158 12.72029033 156.784362792969</gx:coord>
+				<gx:coord>-11.39166232 12.72031326 156.827209472656</gx:coord>
+				<gx:coord>-11.39166758 12.72033678 157.254211425781</gx:coord>
+				<gx:coord>-11.39167949 12.72035916 158.529968261719</gx:coord>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>262.7999877929688 0 0</gx:angles>
+				<gx:angles>342.2999877929688 0 0</gx:angles>
+				<gx:angles>23.79999923706055 0 0</gx:angles>
+				<gx:angles>4.900000095367432 0 0</gx:angles>
+				<gx:angles>32.40000152587891 0 0</gx:angles>
+				<gx:angles>348.5 0 0</gx:angles>
+				<gx:angles>315.5 0 0</gx:angles>
+				<ExtendedData>
+					<SchemaData schemaUrl="#track_schema">
+						<gx:SimpleArrayData kml:name="speed">
+							<gx:value>0</gx:value>
+							<gx:value>0.736467</gx:value>
+							<gx:value>0.957072</gx:value>
+							<gx:value>1.05722</gx:value>
+							<gx:value>1.07673</gx:value>
+							<gx:value>0.913466</gx:value>
+							<gx:value>0.892271</gx:value>
+							<gx:value>0.934622</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="horizontal_accuracy">
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="vertical_accuracy">
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="source">
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+						</gx:SimpleArrayData>
+					</SchemaData>
+				</ExtendedData>
+			</gx:Track>
+		</Placemark>
+		<Placemark>
+			<name>Track 4</name>
+			<TimeStamp><when>2022-12-13T13:43:52Z</when>
+</TimeStamp>
+			<styleUrl>#style17</styleUrl>
+			<gx:Track>
+				<when>2022-12-13T13:43:53Z</when>
+				<when>2022-12-13T13:44:02Z</when>
+				<when>2022-12-13T13:44:10Z</when>
+				<when>2022-12-13T13:44:16Z</when>
+				<when>2022-12-13T13:44:19Z</when>
+				<when>2022-12-13T13:44:22Z</when>
+				<when>2022-12-13T13:44:25Z</when>
+				<when>2022-12-13T13:44:28Z</when>
+				<when>2022-12-13T13:44:30Z</when>
+				<when>2022-12-13T13:44:32Z</when>
+				<when>2022-12-13T13:44:35Z</when>
+				<when>2022-12-13T13:44:38Z</when>
+				<when>2022-12-13T13:44:41Z</when>
+				<when>2022-12-13T13:44:44Z</when>
+				<when>2022-12-13T13:44:47Z</when>
+				<when>2022-12-13T13:44:50Z</when>
+				<when>2022-12-13T13:44:53Z</when>
+				<when>2022-12-13T13:44:56Z</when>
+				<when>2022-12-13T13:44:59Z</when>
+				<when>2022-12-13T13:45:01Z</when>
+				<when>2022-12-13T13:45:04Z</when>
+				<when>2022-12-13T13:45:08Z</when>
+				<when>2022-12-13T13:45:24Z</when>
+				<when>2022-12-13T13:45:27Z</when>
+				<when>2022-12-13T13:45:30Z</when>
+				<when>2022-12-13T13:45:32Z</when>
+				<when>2022-12-13T13:45:34Z</when>
+				<when>2022-12-13T13:45:36Z</when>
+				<when>2022-12-13T13:45:38Z</when>
+				<when>2022-12-13T13:45:40Z</when>
+				<when>2022-12-13T13:45:42Z</when>
+				<when>2022-12-13T13:45:44Z</when>
+				<when>2022-12-13T13:45:47Z</when>
+				<when>2022-12-13T13:45:50Z</when>
+				<when>2022-12-13T13:45:53Z</when>
+				<when>2022-12-13T13:45:56Z</when>
+				<when>2022-12-13T13:46:00Z</when>
+				<when>2022-12-13T13:46:04Z</when>
+				<when>2022-12-13T13:46:07Z</when>
+				<when>2022-12-13T13:46:10Z</when>
+				<when>2022-12-13T13:46:12Z</when>
+				<when>2022-12-13T13:46:14Z</when>
+				<when>2022-12-13T13:46:17Z</when>
+				<when>2022-12-13T13:46:21Z</when>
+				<when>2022-12-13T13:46:25Z</when>
+				<when>2022-12-13T13:46:31Z</when>
+				<when>2022-12-13T13:46:34Z</when>
+				<when>2022-12-13T13:46:38Z</when>
+				<when>2022-12-13T13:46:41Z</when>
+				<when>2022-12-13T13:46:44Z</when>
+				<when>2022-12-13T13:46:47Z</when>
+				<when>2022-12-13T13:47:03Z</when>
+				<when>2022-12-13T13:47:05Z</when>
+				<when>2022-12-13T13:47:07Z</when>
+				<when>2022-12-13T13:47:09Z</when>
+				<when>2022-12-13T13:47:12Z</when>
+				<when>2022-12-13T13:47:20Z</when>
+				<when>2022-12-13T13:47:26Z</when>
+				<when>2022-12-13T13:47:30Z</when>
+				<when>2022-12-13T13:47:32Z</when>
+				<when>2022-12-13T13:47:35Z</when>
+				<when>2022-12-13T13:47:37Z</when>
+				<when>2022-12-13T13:47:39Z</when>
+				<when>2022-12-13T13:47:42Z</when>
+				<when>2022-12-13T13:47:45Z</when>
+				<when>2022-12-13T13:47:47Z</when>
+				<when>2022-12-13T13:47:49Z</when>
+				<when>2022-12-13T13:47:52Z</when>
+				<when>2022-12-13T13:47:54Z</when>
+				<when>2022-12-13T13:47:56Z</when>
+				<when>2022-12-13T13:47:59Z</when>
+				<when>2022-12-13T13:48:02Z</when>
+				<when>2022-12-13T13:48:05Z</when>
+				<when>2022-12-13T13:48:08Z</when>
+				<when>2022-12-13T13:48:11Z</when>
+				<when>2022-12-13T13:48:14Z</when>
+				<when>2022-12-13T13:48:17Z</when>
+				<when>2022-12-13T13:48:19Z</when>
+				<when>2022-12-13T13:48:21Z</when>
+				<when>2022-12-13T13:48:29Z</when>
+				<when>2022-12-13T13:48:32Z</when>
+				<when>2022-12-13T13:48:36Z</when>
+				<when>2022-12-13T13:48:39Z</when>
+				<when>2022-12-13T13:48:47Z</when>
+				<when>2022-12-13T13:48:50Z</when>
+				<when>2022-12-13T13:48:53Z</when>
+				<when>2022-12-13T13:48:57Z</when>
+				<when>2022-12-13T13:49:05Z</when>
+				<when>2022-12-13T13:49:08Z</when>
+				<when>2022-12-13T13:49:13Z</when>
+				<when>2022-12-13T13:49:16Z</when>
+				<when>2022-12-13T13:49:18Z</when>
+				<when>2022-12-13T13:49:20Z</when>
+				<when>2022-12-13T13:49:22Z</when>
+				<when>2022-12-13T13:49:25Z</when>
+				<when>2022-12-13T13:49:28Z</when>
+				<when>2022-12-13T13:49:31Z</when>
+				<when>2022-12-13T13:49:34Z</when>
+				<when>2022-12-13T13:49:36Z</when>
+				<when>2022-12-13T13:49:38Z</when>
+				<when>2022-12-13T13:49:40Z</when>
+				<when>2022-12-13T13:49:42Z</when>
+				<when>2022-12-13T13:49:44Z</when>
+				<when>2022-12-13T13:49:47Z</when>
+				<when>2022-12-13T13:49:51Z</when>
+				<when>2022-12-13T13:49:54Z</when>
+				<when>2022-12-13T13:49:58Z</when>
+				<when>2022-12-13T13:50:00Z</when>
+				<when>2022-12-13T13:50:02Z</when>
+				<when>2022-12-13T13:50:04Z</when>
+				<when>2022-12-13T13:50:07Z</when>
+				<when>2022-12-13T13:50:10Z</when>
+				<when>2022-12-13T13:50:13Z</when>
+				<when>2022-12-13T13:50:16Z</when>
+				<when>2022-12-13T13:50:18Z</when>
+				<when>2022-12-13T13:50:20Z</when>
+				<when>2022-12-13T13:50:22Z</when>
+				<when>2022-12-13T13:50:25Z</when>
+				<when>2022-12-13T13:50:27Z</when>
+				<when>2022-12-13T13:50:30Z</when>
+				<when>2022-12-13T13:50:33Z</when>
+				<when>2022-12-13T13:50:38Z</when>
+				<when>2022-12-13T13:50:48Z</when>
+				<when>2022-12-13T13:51:03Z</when>
+				<when>2022-12-13T13:51:05Z</when>
+				<when>2022-12-13T13:51:07Z</when>
+				<when>2022-12-13T13:51:09Z</when>
+				<when>2022-12-13T13:51:12Z</when>
+				<when>2022-12-13T13:51:15Z</when>
+				<when>2022-12-13T13:51:17Z</when>
+				<when>2022-12-13T13:51:19Z</when>
+				<when>2022-12-13T13:51:22Z</when>
+				<when>2022-12-13T13:51:26Z</when>
+				<when>2022-12-13T13:51:29Z</when>
+				<when>2022-12-13T13:51:32Z</when>
+				<when>2022-12-13T13:51:35Z</when>
+				<when>2022-12-13T13:51:38Z</when>
+				<when>2022-12-13T13:51:41Z</when>
+				<when>2022-12-13T13:51:44Z</when>
+				<when>2022-12-13T13:51:46Z</when>
+				<when>2022-12-13T13:51:49Z</when>
+				<when>2022-12-13T13:51:51Z</when>
+				<when>2022-12-13T13:51:53Z</when>
+				<when>2022-12-13T13:51:56Z</when>
+				<when>2022-12-13T13:51:58Z</when>
+				<when>2022-12-13T13:52:00Z</when>
+				<when>2022-12-13T13:52:02Z</when>
+				<when>2022-12-13T13:52:04Z</when>
+				<when>2022-12-13T13:52:06Z</when>
+				<when>2022-12-13T13:52:08Z</when>
+				<when>2022-12-13T13:52:10Z</when>
+				<when>2022-12-13T13:52:12Z</when>
+				<when>2022-12-13T13:52:14Z</when>
+				<when>2022-12-13T13:52:17Z</when>
+				<when>2022-12-13T13:52:20Z</when>
+				<when>2022-12-13T13:52:23Z</when>
+				<when>2022-12-13T13:52:26Z</when>
+				<when>2022-12-13T13:52:29Z</when>
+				<when>2022-12-13T13:52:32Z</when>
+				<when>2022-12-13T13:52:34Z</when>
+				<when>2022-12-13T13:52:37Z</when>
+				<when>2022-12-13T13:52:40Z</when>
+				<when>2022-12-13T13:52:43Z</when>
+				<when>2022-12-13T13:52:46Z</when>
+				<when>2022-12-13T13:52:49Z</when>
+				<when>2022-12-13T13:52:52Z</when>
+				<when>2022-12-13T13:52:55Z</when>
+				<when>2022-12-13T13:52:58Z</when>
+				<when>2022-12-13T13:53:01Z</when>
+				<when>2022-12-13T13:53:03Z</when>
+				<when>2022-12-13T13:53:06Z</when>
+				<when>2022-12-13T13:53:09Z</when>
+				<when>2022-12-13T13:53:12Z</when>
+				<when>2022-12-13T13:53:17Z</when>
+				<when>2022-12-13T13:53:20Z</when>
+				<when>2022-12-13T13:53:22Z</when>
+				<when>2022-12-13T13:53:25Z</when>
+				<when>2022-12-13T13:53:27Z</when>
+				<when>2022-12-13T13:53:31Z</when>
+				<when>2022-12-13T13:53:36Z</when>
+				<when>2022-12-13T13:53:42Z</when>
+				<when>2022-12-13T13:53:44Z</when>
+				<when>2022-12-13T13:53:47Z</when>
+				<when>2022-12-13T13:53:49Z</when>
+				<when>2022-12-13T13:53:52Z</when>
+				<when>2022-12-13T13:53:55Z</when>
+				<when>2022-12-13T13:53:57Z</when>
+				<when>2022-12-13T13:53:59Z</when>
+				<when>2022-12-13T13:54:01Z</when>
+				<when>2022-12-13T13:54:04Z</when>
+				<when>2022-12-13T13:54:06Z</when>
+				<when>2022-12-13T13:54:09Z</when>
+				<when>2022-12-13T13:54:12Z</when>
+				<when>2022-12-13T13:54:16Z</when>
+				<when>2022-12-13T13:54:20Z</when>
+				<when>2022-12-13T13:54:24Z</when>
+				<when>2022-12-13T13:54:27Z</when>
+				<when>2022-12-13T13:54:29Z</when>
+				<when>2022-12-13T13:54:33Z</when>
+				<when>2022-12-13T13:54:36Z</when>
+				<when>2022-12-13T13:54:39Z</when>
+				<when>2022-12-13T13:54:42Z</when>
+				<when>2022-12-13T13:54:44Z</when>
+				<when>2022-12-13T13:54:46Z</when>
+				<when>2022-12-13T13:54:48Z</when>
+				<when>2022-12-13T13:54:50Z</when>
+				<when>2022-12-13T13:54:52Z</when>
+				<when>2022-12-13T13:54:55Z</when>
+				<when>2022-12-13T13:54:58Z</when>
+				<when>2022-12-13T13:55:00Z</when>
+				<when>2022-12-13T13:55:02Z</when>
+				<when>2022-12-13T13:55:04Z</when>
+				<when>2022-12-13T13:55:06Z</when>
+				<when>2022-12-13T13:55:08Z</when>
+				<when>2022-12-13T13:55:11Z</when>
+				<when>2022-12-13T13:55:13Z</when>
+				<when>2022-12-13T13:55:16Z</when>
+				<when>2022-12-13T13:55:18Z</when>
+				<when>2022-12-13T13:55:20Z</when>
+				<when>2022-12-13T13:55:22Z</when>
+				<when>2022-12-13T13:55:24Z</when>
+				<when>2022-12-13T13:55:26Z</when>
+				<when>2022-12-13T13:55:28Z</when>
+				<when>2022-12-13T13:55:30Z</when>
+				<when>2022-12-13T13:55:33Z</when>
+				<when>2022-12-13T13:55:35Z</when>
+				<when>2022-12-13T13:55:38Z</when>
+				<when>2022-12-13T13:55:41Z</when>
+				<when>2022-12-13T13:55:44Z</when>
+				<when>2022-12-13T13:55:47Z</when>
+				<when>2022-12-13T13:55:50Z</when>
+				<when>2022-12-13T13:55:53Z</when>
+				<when>2022-12-13T13:55:56Z</when>
+				<when>2022-12-13T13:58:24Z</when>
+				<when>2022-12-13T14:01:24Z</when>
+				<when>2022-12-13T14:01:27Z</when>
+				<when>2022-12-13T14:01:29Z</when>
+				<when>2022-12-13T14:01:31Z</when>
+				<when>2022-12-13T14:01:34Z</when>
+				<when>2022-12-13T14:01:37Z</when>
+				<when>2022-12-13T14:01:40Z</when>
+				<when>2022-12-13T14:01:42Z</when>
+				<when>2022-12-13T14:01:44Z</when>
+				<when>2022-12-13T14:01:46Z</when>
+				<when>2022-12-13T14:01:49Z</when>
+				<when>2022-12-13T14:01:51Z</when>
+				<when>2022-12-13T14:01:54Z</when>
+				<when>2022-12-13T14:02:04Z</when>
+				<when>2022-12-13T14:02:14Z</when>
+				<when>2022-12-13T14:02:16Z</when>
+				<when>2022-12-13T14:02:18Z</when>
+				<when>2022-12-13T14:02:21Z</when>
+				<when>2022-12-13T14:02:24Z</when>
+				<when>2022-12-13T14:02:27Z</when>
+				<when>2022-12-13T14:02:31Z</when>
+				<gx:coord>-11.39743403 12.72461439 144.6796875</gx:coord>
+				<gx:coord>-11.3974273 12.72463371 144.32861328125</gx:coord>
+				<gx:coord>-11.39742098 12.72465349 145.316223144531</gx:coord>
+				<gx:coord>-11.39740273 12.72466622 144.421508789062</gx:coord>
+				<gx:coord>-11.397382 12.72467268 144.20263671875</gx:coord>
+				<gx:coord>-11.39736417 12.72468399 145.263244628906</gx:coord>
+				<gx:coord>-11.39736137 12.724705 144.678344726562</gx:coord>
+				<gx:coord>-11.39735393 12.72472754 145.271484375</gx:coord>
+				<gx:coord>-11.39733435 12.72473521 145.1083984375</gx:coord>
+				<gx:coord>-11.39731601 12.72474508 145.494140625</gx:coord>
+				<gx:coord>-11.39730014 12.72475808 145.02587890625</gx:coord>
+				<gx:coord>-11.39727904 12.72475753 144.748107910156</gx:coord>
+				<gx:coord>-11.39726737 12.72473768 144.910461425781</gx:coord>
+				<gx:coord>-11.397251 12.72472632 145.063171386719</gx:coord>
+				<gx:coord>-11.39723421 12.72474192 144.325073242188</gx:coord>
+				<gx:coord>-11.39721123 12.72473994 144.494750976562</gx:coord>
+				<gx:coord>-11.39719227 12.724751 144.642028808594</gx:coord>
+				<gx:coord>-11.397173 12.7247551 144.003051757812</gx:coord>
+				<gx:coord>-11.39715393 12.72476448 144.108154296875</gx:coord>
+				<gx:coord>-11.39713644 12.72477044 144.628784179688</gx:coord>
+				<gx:coord>-11.39711866 12.72478125 144.591003417969</gx:coord>
+				<gx:coord>-11.3970968 12.72478953 144.474609375</gx:coord>
+				<gx:coord>-11.39707424 12.72479048 143.530639648438</gx:coord>
+				<gx:coord>-11.39705207 12.72479709 143.110534667969</gx:coord>
+				<gx:coord>-11.39702628 12.72479814 144.896240234375</gx:coord>
+				<gx:coord>-11.39700776 12.72480289 144.843811035156</gx:coord>
+				<gx:coord>-11.39698618 12.72479951 144.920166015625</gx:coord>
+				<gx:coord>-11.39696586 12.7247963 145.041381835938</gx:coord>
+				<gx:coord>-11.39694555 12.72479558 144.655700683594</gx:coord>
+				<gx:coord>-11.39692442 12.72480227 144.968322753906</gx:coord>
+				<gx:coord>-11.39690443 12.72481495 144.490478515625</gx:coord>
+				<gx:coord>-11.39688555 12.72482259 144.723999023438</gx:coord>
+				<gx:coord>-11.39686349 12.72482722 144.412719726562</gx:coord>
+				<gx:coord>-11.39684306 12.72482914 143.700317382812</gx:coord>
+				<gx:coord>-11.39681509 12.72483222 143.888305664062</gx:coord>
+				<gx:coord>-11.39679201 12.72483191 143.787109375</gx:coord>
+				<gx:coord>-11.39677719 12.72484466 142.482727050781</gx:coord>
+				<gx:coord>-11.39678108 12.72486898 142.6435546875</gx:coord>
+				<gx:coord>-11.396782 12.72489397 142.442626953125</gx:coord>
+				<gx:coord>-11.39678922 12.72491908 142.472900390625</gx:coord>
+				<gx:coord>-11.39679656 12.72493712 142.244506835938</gx:coord>
+				<gx:coord>-11.39680299 12.72495519 142.433837890625</gx:coord>
+				<gx:coord>-11.3968109 12.72497722 141.114501953125</gx:coord>
+				<gx:coord>-11.39680837 12.7249978 141.168029785156</gx:coord>
+				<gx:coord>-11.39678827 12.72500845 142.933532714844</gx:coord>
+				<gx:coord>-11.39680179 12.72502466 141.565490722656</gx:coord>
+				<gx:coord>-11.39681563 12.72504623 142.317443847656</gx:coord>
+				<gx:coord>-11.39681908 12.72506461 142.470764160156</gx:coord>
+				<gx:coord>-11.39682084 12.72508306 143.228820800781</gx:coord>
+				<gx:coord>-11.39682738 12.72510518 142.526550292969</gx:coord>
+				<gx:coord>-11.39681916 12.72512496 142.074584960938</gx:coord>
+				<gx:coord>-11.39682314 12.72514991 141.933044433594</gx:coord>
+				<gx:coord>-11.3968264 12.72516932 142.148376464844</gx:coord>
+				<gx:coord>-11.39683299 12.72518636 142.36083984375</gx:coord>
+				<gx:coord>-11.39684143 12.72520368 142.323974609375</gx:coord>
+				<gx:coord>-11.39683927 12.7252258 143.774047851562</gx:coord>
+				<gx:coord>-11.39683931 12.72524641 143.395446777344</gx:coord>
+				<gx:coord>-11.39685662 12.72525322 143.634582519531</gx:coord>
+				<gx:coord>-11.39687928 12.72524846 143.320190429688</gx:coord>
+				<gx:coord>-11.39689551 12.72525844 143.539611816406</gx:coord>
+				<gx:coord>-11.39692076 12.72526458 141.494018554688</gx:coord>
+				<gx:coord>-11.39694185 12.72526544 141.839721679688</gx:coord>
+				<gx:coord>-11.3969596 12.72525962 142.093872070312</gx:coord>
+				<gx:coord>-11.3969796 12.72524616 142.94140625</gx:coord>
+				<gx:coord>-11.39700381 12.72523673 142.177062988281</gx:coord>
+				<gx:coord>-11.3970227 12.72523263 142.59814453125</gx:coord>
+				<gx:coord>-11.39704228 12.7252339 142.715087890625</gx:coord>
+				<gx:coord>-11.3970628 12.72522465 143.539123535156</gx:coord>
+				<gx:coord>-11.39707787 12.72521093 144.294677734375</gx:coord>
+				<gx:coord>-11.39709867 12.72520443 144.117614746094</gx:coord>
+				<gx:coord>-11.3971262 12.72519934 144.602966308594</gx:coord>
+				<gx:coord>-11.39715014 12.72519057 145.7265625</gx:coord>
+				<gx:coord>-11.39717269 12.72518535 147.007995605469</gx:coord>
+				<gx:coord>-11.39719543 12.72517549 146.936950683594</gx:coord>
+				<gx:coord>-11.39721546 12.72517184 146.354614257812</gx:coord>
+				<gx:coord>-11.3972314 12.72516227 145.044067382812</gx:coord>
+				<gx:coord>-11.3972529 12.72515587 143.885986328125</gx:coord>
+				<gx:coord>-11.39727299 12.7251516 144.50341796875</gx:coord>
+				<gx:coord>-11.39729249 12.72514979 144.4970703125</gx:coord>
+				<gx:coord>-11.39731753 12.72514895 144.344848632812</gx:coord>
+				<gx:coord>-11.39733582 12.72514222 144.824829101562</gx:coord>
+				<gx:coord>-11.39735618 12.72514821 142.5859375</gx:coord>
+				<gx:coord>-11.39737029 12.72516072 140.049377441406</gx:coord>
+				<gx:coord>-11.39734585 12.72514831 142.473876953125</gx:coord>
+				<gx:coord>-11.39733219 12.72516633 143.875061035156</gx:coord>
+				<gx:coord>-11.39735218 12.72517716 144.101806640625</gx:coord>
+				<gx:coord>-11.39737702 12.72518387 144.748413085938</gx:coord>
+				<gx:coord>-11.39740219 12.72517832 143.705200195312</gx:coord>
+				<gx:coord>-11.39742278 12.72517191 143.40966796875</gx:coord>
+				<gx:coord>-11.39744421 12.72517504 143.188598632812</gx:coord>
+				<gx:coord>-11.39746448 12.72516845 142.902526855469</gx:coord>
+				<gx:coord>-11.39748434 12.725166 143.227416992188</gx:coord>
+				<gx:coord>-11.39750618 12.72516378 143.492004394531</gx:coord>
+				<gx:coord>-11.397526 12.72515993 143.184020996094</gx:coord>
+				<gx:coord>-11.39754407 12.72515137 142.669372558594</gx:coord>
+				<gx:coord>-11.39756115 12.725139 142.5107421875</gx:coord>
+				<gx:coord>-11.39758359 12.72513576 142.472045898438</gx:coord>
+				<gx:coord>-11.39759518 12.72515855 142.558349609375</gx:coord>
+				<gx:coord>-11.39761139 12.72517433 142.942626953125</gx:coord>
+				<gx:coord>-11.39762813 12.72518577 143.254577636719</gx:coord>
+				<gx:coord>-11.39764838 12.72519494 143.827392578125</gx:coord>
+				<gx:coord>-11.39766774 12.72520046 143.735412597656</gx:coord>
+				<gx:coord>-11.39769024 12.72519946 143.634399414062</gx:coord>
+				<gx:coord>-11.39771156 12.72520238 142.45458984375</gx:coord>
+				<gx:coord>-11.39771372 12.7252221 141.324829101562</gx:coord>
+				<gx:coord>-11.3977359 12.7252346 140.908569335938</gx:coord>
+				<gx:coord>-11.39775541 12.7252202 140.873046875</gx:coord>
+				<gx:coord>-11.39775439 12.72519908 141.576049804688</gx:coord>
+				<gx:coord>-11.39776319 12.72517558 141.862182617188</gx:coord>
+				<gx:coord>-11.397777 12.72515559 142.562866210938</gx:coord>
+				<gx:coord>-11.39779438 12.72514426 142.950073242188</gx:coord>
+				<gx:coord>-11.39781575 12.72514448 143.1103515625</gx:coord>
+				<gx:coord>-11.39783685 12.72513128 142.254699707031</gx:coord>
+				<gx:coord>-11.39785286 12.72510817 142.782531738281</gx:coord>
+				<gx:coord>-11.39787111 12.72510272 142.720520019531</gx:coord>
+				<gx:coord>-11.397892 12.72509852 142.502380371094</gx:coord>
+				<gx:coord>-11.3979116 12.72509703 142.454223632812</gx:coord>
+				<gx:coord>-11.39793403 12.72508041 142.279235839844</gx:coord>
+				<gx:coord>-11.39794831 12.72506728 142.855224609375</gx:coord>
+				<gx:coord>-11.39797053 12.72505902 142.974609375</gx:coord>
+				<gx:coord>-11.39798702 12.72505048 142.53076171875</gx:coord>
+				<gx:coord>-11.39800291 12.72503147 143.514282226562</gx:coord>
+				<gx:coord>-11.39798614 12.72504036 143.43212890625</gx:coord>
+				<gx:coord>-11.39798802 12.7250631 142.897888183594</gx:coord>
+				<gx:coord>-11.39800462 12.725073 142.757751464844</gx:coord>
+				<gx:coord>-11.39803437 12.72506787 143.069213867188</gx:coord>
+				<gx:coord>-11.3980634 12.72506586 142.665893554688</gx:coord>
+				<gx:coord>-11.39808046 12.72504468 142.185913085938</gx:coord>
+				<gx:coord>-11.39808757 12.72502388 143.809509277344</gx:coord>
+				<gx:coord>-11.39810841 12.72501785 143.588745117188</gx:coord>
+				<gx:coord>-11.39812771 12.72502231 143.144470214844</gx:coord>
+				<gx:coord>-11.39814808 12.72501453 143.84765625</gx:coord>
+				<gx:coord>-11.39816672 12.72501855 144.299926757812</gx:coord>
+				<gx:coord>-11.39818801 12.72502801 143.877380371094</gx:coord>
+				<gx:coord>-11.39820669 12.72501833 143.597412109375</gx:coord>
+				<gx:coord>-11.39822201 12.72500382 142.982299804688</gx:coord>
+				<gx:coord>-11.39824712 12.72500724 143.96435546875</gx:coord>
+				<gx:coord>-11.39827102 12.72501099 144.062133789062</gx:coord>
+				<gx:coord>-11.39829182 12.72502139 141.994201660156</gx:coord>
+				<gx:coord>-11.39831034 12.72501761 142.097290039062</gx:coord>
+				<gx:coord>-11.39833296 12.72501445 142.532165527344</gx:coord>
+				<gx:coord>-11.39835256 12.72502139 142.141479492188</gx:coord>
+				<gx:coord>-11.3983754 12.72502307 142.256591796875</gx:coord>
+				<gx:coord>-11.39840277 12.7250256 142.3974609375</gx:coord>
+				<gx:coord>-11.39842363 12.72502862 142.637145996094</gx:coord>
+				<gx:coord>-11.3984437 12.72502764 143.100280761719</gx:coord>
+				<gx:coord>-11.39846428 12.7250232 143.706115722656</gx:coord>
+				<gx:coord>-11.39848488 12.72502505 143.515991210938</gx:coord>
+				<gx:coord>-11.3985081 12.7250263 143.359985351562</gx:coord>
+				<gx:coord>-11.39853033 12.72501639 143.816772460938</gx:coord>
+				<gx:coord>-11.39854682 12.72500823 143.586669921875</gx:coord>
+				<gx:coord>-11.39855569 12.72498782 144.019775390625</gx:coord>
+				<gx:coord>-11.39855864 12.72496945 143.730834960938</gx:coord>
+				<gx:coord>-11.39857365 12.72495045 143.83740234375</gx:coord>
+				<gx:coord>-11.39858608 12.72493543 143.6943359375</gx:coord>
+				<gx:coord>-11.39860164 12.72492556 143.102416992188</gx:coord>
+				<gx:coord>-11.39860966 12.72490927 143.125854492188</gx:coord>
+				<gx:coord>-11.39862149 12.72489216 143.283203125</gx:coord>
+				<gx:coord>-11.39862075 12.72487151 144.362182617188</gx:coord>
+				<gx:coord>-11.39862114 12.72485187 145.437622070312</gx:coord>
+				<gx:coord>-11.3986377 12.72483681 145.065551757812</gx:coord>
+				<gx:coord>-11.3986529 12.72481608 145.026428222656</gx:coord>
+				<gx:coord>-11.39865854 12.72479003 145.248901367188</gx:coord>
+				<gx:coord>-11.39866424 12.72476502 144.173278808594</gx:coord>
+				<gx:coord>-11.39866457 12.72474091 143.532592773438</gx:coord>
+				<gx:coord>-11.39867176 12.72471882 143.364135742188</gx:coord>
+				<gx:coord>-11.39869117 12.72470346 143.1669921875</gx:coord>
+				<gx:coord>-11.39870198 12.72467965 143.477478027344</gx:coord>
+				<gx:coord>-11.39870177 12.72465329 143.347412109375</gx:coord>
+				<gx:coord>-11.39870624 12.72463529 143.684692382812</gx:coord>
+				<gx:coord>-11.39871284 12.72461348 143.68115234375</gx:coord>
+				<gx:coord>-11.39871619 12.72458893 143.267456054688</gx:coord>
+				<gx:coord>-11.39871901 12.72457075 142.832153320312</gx:coord>
+				<gx:coord>-11.3987344 12.72455212 143.27490234375</gx:coord>
+				<gx:coord>-11.39874109 12.72453079 143.080749511719</gx:coord>
+				<gx:coord>-11.39872904 12.72451403 144.038818359375</gx:coord>
+				<gx:coord>-11.3987111 12.72449926 145.911437988281</gx:coord>
+				<gx:coord>-11.39871413 12.72447578 145.7490234375</gx:coord>
+				<gx:coord>-11.39872272 12.72445414 144.819091796875</gx:coord>
+				<gx:coord>-11.39870811 12.72444257 143.095703125</gx:coord>
+				<gx:coord>-11.39868813 12.72443519 142.841674804688</gx:coord>
+				<gx:coord>-11.3986688 12.72444026 143.580810546875</gx:coord>
+				<gx:coord>-11.39864168 12.72444076 144.12353515625</gx:coord>
+				<gx:coord>-11.39862334 12.72444449 144.276245117188</gx:coord>
+				<gx:coord>-11.39861012 12.72445733 142.919494628906</gx:coord>
+				<gx:coord>-11.39858085 12.72445956 143.111022949219</gx:coord>
+				<gx:coord>-11.39856869 12.72444424 143.741027832031</gx:coord>
+				<gx:coord>-11.39854824 12.72443531 143.772583007812</gx:coord>
+				<gx:coord>-11.39852982 12.72442556 144.015869140625</gx:coord>
+				<gx:coord>-11.39850828 12.72441594 142.956298828125</gx:coord>
+				<gx:coord>-11.39848978 12.72441522 142.202331542969</gx:coord>
+				<gx:coord>-11.398467 12.72440662 142.270141601562</gx:coord>
+				<gx:coord>-11.39844938 12.72439885 141.475646972656</gx:coord>
+				<gx:coord>-11.39842527 12.72439833 142.408630371094</gx:coord>
+				<gx:coord>-11.39841893 12.72437806 142.286560058594</gx:coord>
+				<gx:coord>-11.39839737 12.72437618 142.338928222656</gx:coord>
+				<gx:coord>-11.39837275 12.72437083 142.646240234375</gx:coord>
+				<gx:coord>-11.39835531 12.72435963 142.545837402344</gx:coord>
+				<gx:coord>-11.39833287 12.72434467 142.703002929688</gx:coord>
+				<gx:coord>-11.39830946 12.72434703 142.590576171875</gx:coord>
+				<gx:coord>-11.39829846 12.72436523 142.165344238281</gx:coord>
+				<gx:coord>-11.39828653 12.7243802 142.395080566406</gx:coord>
+				<gx:coord>-11.3982736 12.72439339 142.94140625</gx:coord>
+				<gx:coord>-11.39825509 12.72440486 142.845947265625</gx:coord>
+				<gx:coord>-11.3982373 12.72441413 142.7109375</gx:coord>
+				<gx:coord>-11.39821612 12.72441529 142.962341308594</gx:coord>
+				<gx:coord>-11.39819719 12.72442117 143.506469726562</gx:coord>
+				<gx:coord>-11.39817611 12.72443004 143.563293457031</gx:coord>
+				<gx:coord>-11.3981607 12.72444373 142.498901367188</gx:coord>
+				<gx:coord>-11.39814216 12.72445859 142.586853027344</gx:coord>
+				<gx:coord>-11.39812945 12.72447327 142.30908203125</gx:coord>
+				<gx:coord>-11.39811883 12.72448984 142.469116210938</gx:coord>
+				<gx:coord>-11.39810762 12.72450491 142.069213867188</gx:coord>
+				<gx:coord>-11.39809319 12.72451676 142.13671875</gx:coord>
+				<gx:coord>-11.39808015 12.72453941 142.411376953125</gx:coord>
+				<gx:coord>-11.39807121 12.72455788 142.361206054688</gx:coord>
+				<gx:coord>-11.39804461 12.72456503 142.147827148438</gx:coord>
+				<gx:coord>-11.39802151 12.72456563 141.633666992188</gx:coord>
+				<gx:coord>-11.39799922 12.72456124 142.002563476562</gx:coord>
+				<gx:coord>-11.39797844 12.72455283 142.14306640625</gx:coord>
+				<gx:coord>-11.39795812 12.72455238 142.5087890625</gx:coord>
+				<gx:coord>-11.39793814 12.72455435 142.799133300781</gx:coord>
+				<gx:coord>-11.39791911 12.72456079 143.147888183594</gx:coord>
+				<gx:coord>-11.39790118 12.72456796 143.222961425781</gx:coord>
+				<gx:coord>-11.39787742 12.72457613 143.496215820312</gx:coord>
+				<gx:coord>-11.39785902 12.72457226 142.8447265625</gx:coord>
+				<gx:coord>-11.3978368 12.72456862 142.724243164062</gx:coord>
+				<gx:coord>-11.39781611 12.72456658 142.211486816406</gx:coord>
+				<gx:coord>-11.39780025 12.72455187 142.380187988281</gx:coord>
+				<gx:coord>-11.3977809 12.72455337 142.75244140625</gx:coord>
+				<gx:coord>-11.39776136 12.72455309 142.585266113281</gx:coord>
+				<gx:coord>-11.39774397 12.72456573 142.044128417969</gx:coord>
+				<gx:coord>-11.39772529 12.7245544 141.662414550781</gx:coord>
+				<gx:coord>-11.39772802 12.72453424 140.402221679688</gx:coord>
+				<gx:coord>-11.39770968 12.72453668 141.710021972656</gx:coord>
+				<gx:coord>-11.39768784 12.7245368 142.399108886719</gx:coord>
+				<gx:coord>-11.39766721 12.72454254 143.03466796875</gx:coord>
+				<gx:coord>-11.39764512 12.72454164 143.536560058594</gx:coord>
+				<gx:coord>-11.39762574 12.72454407 143.49755859375</gx:coord>
+				<gx:coord>-11.39760569 12.72454924 143.687072753906</gx:coord>
+				<gx:coord>-11.39758281 12.72455271 143.678100585938</gx:coord>
+				<gx:coord>-11.39755891 12.72455909 143.044860839844</gx:coord>
+				<gx:coord>-11.39753628 12.72456774 143.287231445312</gx:coord>
+				<gx:coord>-11.39751992 12.72457676 143.186889648438</gx:coord>
+				<gx:coord>-11.39749552 12.72458794 143.167602539062</gx:coord>
+				<gx:coord>-11.39747895 12.72459665 143.273193359375</gx:coord>
+				<gx:coord>-11.39745584 12.7246054 143.112731933594</gx:coord>
+				<gx:coord>-11.39745614 12.72462357 143.575317382812</gx:coord>
+				<gx:coord>-11.39743995 12.72460252 143.244873046875</gx:coord>
+				<gx:coord>-11.39741964 12.72458887 143.435363769531</gx:coord>
+				<gx:coord>-11.3973992 12.72458728 143.713195800781</gx:coord>
+				<gx:coord>-11.39737411 12.72459557 143.299133300781</gx:coord>
+				<gx:coord>-11.39736676 12.72461746 143.418273925781</gx:coord>
+				<gx:coord>-11.39737679 12.72464088 143.558837890625</gx:coord>
+				<gx:coord>-11.39738933 12.72465522 144.324584960938</gx:coord>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>188.8999938964844 0 0</gx:angles>
+				<gx:angles>188.8999938964844 0 0</gx:angles>
+				<gx:angles>188.8999938964844 0 0</gx:angles>
+				<gx:angles>188.8999938964844 0 0</gx:angles>
+				<gx:angles>188.8999938964844 0 0</gx:angles>
+				<gx:angles>358 0 0</gx:angles>
+				<gx:angles>46.59999847412109 0 0</gx:angles>
+				<gx:angles>65.90000152587891 0 0</gx:angles>
+				<gx:angles>63.20000076293945 0 0</gx:angles>
+				<gx:angles>60.29999923706055 0 0</gx:angles>
+				<gx:angles>92.59999847412109 0 0</gx:angles>
+				<gx:angles>167.3000030517578 0 0</gx:angles>
+				<gx:angles>102.5999984741211 0 0</gx:angles>
+				<gx:angles>68 0 0</gx:angles>
+				<gx:angles>96.90000152587891 0 0</gx:angles>
+				<gx:angles>61.70000076293945 0 0</gx:angles>
+				<gx:angles>84.59999847412109 0 0</gx:angles>
+				<gx:angles>64.19999694824219 0 0</gx:angles>
+				<gx:angles>75.40000152587891 0 0</gx:angles>
+				<gx:angles>59.20000076293945 0 0</gx:angles>
+				<gx:angles>61.5 0 0</gx:angles>
+				<gx:angles>87.40000152587891 0 0</gx:angles>
+				<gx:angles>73.5 0 0</gx:angles>
+				<gx:angles>84.80000305175781 0 0</gx:angles>
+				<gx:angles>64.5 0 0</gx:angles>
+				<gx:angles>88.5 0 0</gx:angles>
+				<gx:angles>105.4000015258789 0 0</gx:angles>
+				<gx:angles>87.09999847412109 0 0</gx:angles>
+				<gx:angles>78 0 0</gx:angles>
+				<gx:angles>71.5 0 0</gx:angles>
+				<gx:angles>76.30000305175781 0 0</gx:angles>
+				<gx:angles>75.19999694824219 0 0</gx:angles>
+				<gx:angles>66.30000305175781 0 0</gx:angles>
+				<gx:angles>89.40000152587891 0 0</gx:angles>
+				<gx:angles>92.90000152587891 0 0</gx:angles>
+				<gx:angles>5.599999904632568 0 0</gx:angles>
+				<gx:angles>350.2999877929688 0 0</gx:angles>
+				<gx:angles>336.3999938964844 0 0</gx:angles>
+				<gx:angles>332 0 0</gx:angles>
+				<gx:angles>337.1000061035156 0 0</gx:angles>
+				<gx:angles>355.7999877929688 0 0</gx:angles>
+				<gx:angles>340.2999877929688 0 0</gx:angles>
+				<gx:angles>10.60000038146973 0 0</gx:angles>
+				<gx:angles>71.19999694824219 0 0</gx:angles>
+				<gx:angles>346.8999938964844 0 0</gx:angles>
+				<gx:angles>336.5 0 0</gx:angles>
+				<gx:angles>348.7000122070313 0 0</gx:angles>
+				<gx:angles>2.799999952316284 0 0</gx:angles>
+				<gx:angles>357.2000122070313 0 0</gx:angles>
+				<gx:angles>346.2000122070313 0 0</gx:angles>
+				<gx:angles>353 0 0</gx:angles>
+				<gx:angles>7.599999904632568 0 0</gx:angles>
+				<gx:angles>14 0 0</gx:angles>
+				<gx:angles>342.2000122070313 0 0</gx:angles>
+				<gx:angles>357.6000061035156 0 0</gx:angles>
+				<gx:angles>352.8999938964844 0 0</gx:angles>
+				<gx:angles>286.7999877929688 0 0</gx:angles>
+				<gx:angles>266.8999938964844 0 0</gx:angles>
+				<gx:angles>267.5 0 0</gx:angles>
+				<gx:angles>271 0 0</gx:angles>
+				<gx:angles>266.3999938964844 0 0</gx:angles>
+				<gx:angles>246 0 0</gx:angles>
+				<gx:angles>241.3999938964844 0 0</gx:angles>
+				<gx:angles>255.8999938964844 0 0</gx:angles>
+				<gx:angles>254 0 0</gx:angles>
+				<gx:angles>265.5 0 0</gx:angles>
+				<gx:angles>215 0 0</gx:angles>
+				<gx:angles>243.6000061035156 0 0</gx:angles>
+				<gx:angles>251.8000030517578 0 0</gx:angles>
+				<gx:angles>262.8999938964844 0 0</gx:angles>
+				<gx:angles>268.7999877929688 0 0</gx:angles>
+				<gx:angles>244.8000030517578 0 0</gx:angles>
+				<gx:angles>255 0 0</gx:angles>
+				<gx:angles>256.6000061035156 0 0</gx:angles>
+				<gx:angles>252.5 0 0</gx:angles>
+				<gx:angles>275.3999938964844 0 0</gx:angles>
+				<gx:angles>258 0 0</gx:angles>
+				<gx:angles>258 0 0</gx:angles>
+				<gx:angles>306 0 0</gx:angles>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>252.3000030517578 0 0</gx:angles>
+				<gx:angles>299.7999877929688 0 0</gx:angles>
+				<gx:angles>113.5999984741211 0 0</gx:angles>
+				<gx:angles>347.2999877929688 0 0</gx:angles>
+				<gx:angles>303.7999877929688 0 0</gx:angles>
+				<gx:angles>282.6000061035156 0 0</gx:angles>
+				<gx:angles>254.8000030517578 0 0</gx:angles>
+				<gx:angles>250.6999969482422 0 0</gx:angles>
+				<gx:angles>303.7999877929688 0 0</gx:angles>
+				<gx:angles>243.6000061035156 0 0</gx:angles>
+				<gx:angles>292.7000122070313 0 0</gx:angles>
+				<gx:angles>255.6999969482422 0 0</gx:angles>
+				<gx:angles>259.5 0 0</gx:angles>
+				<gx:angles>250.8000030517578 0 0</gx:angles>
+				<gx:angles>246.8999938964844 0 0</gx:angles>
+				<gx:angles>244.3999938964844 0 0</gx:angles>
+				<gx:angles>328.8999938964844 0 0</gx:angles>
+				<gx:angles>311.3999938964844 0 0</gx:angles>
+				<gx:angles>321.1000061035156 0 0</gx:angles>
+				<gx:angles>299.5 0 0</gx:angles>
+				<gx:angles>294.2000122070313 0 0</gx:angles>
+				<gx:angles>273.2999877929688 0 0</gx:angles>
+				<gx:angles>222.8999938964844 0 0</gx:angles>
+				<gx:angles>299.8999938964844 0 0</gx:angles>
+				<gx:angles>285.2000122070313 0 0</gx:angles>
+				<gx:angles>217.3000030517578 0 0</gx:angles>
+				<gx:angles>186.6999969482422 0 0</gx:angles>
+				<gx:angles>215 0 0</gx:angles>
+				<gx:angles>231.6000061035156 0 0</gx:angles>
+				<gx:angles>272 0 0</gx:angles>
+				<gx:angles>254.5 0 0</gx:angles>
+				<gx:angles>229 0 0</gx:angles>
+				<gx:angles>203.8999938964844 0 0</gx:angles>
+				<gx:angles>267.2000122070313 0 0</gx:angles>
+				<gx:angles>231.5 0 0</gx:angles>
+				<gx:angles>266.2000122070313 0 0</gx:angles>
+				<gx:angles>238.5 0 0</gx:angles>
+				<gx:angles>241.1000061035156 0 0</gx:angles>
+				<gx:angles>251.1999969482422 0 0</gx:angles>
+				<gx:angles>218.1000061035156 0 0</gx:angles>
+				<gx:angles>205.1999969482422 0 0</gx:angles>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>355.6000061035156 0 0</gx:angles>
+				<gx:angles>319.7999877929688 0 0</gx:angles>
+				<gx:angles>264.2999877929688 0 0</gx:angles>
+				<gx:angles>257.5 0 0</gx:angles>
+				<gx:angles>211.3999938964844 0 0</gx:angles>
+				<gx:angles>125.0999984741211 0 0</gx:angles>
+				<gx:angles>259.2999877929688 0 0</gx:angles>
+				<gx:angles>309.8999938964844 0 0</gx:angles>
+				<gx:angles>242.3999938964844 0 0</gx:angles>
+				<gx:angles>304.1000061035156 0 0</gx:angles>
+				<gx:angles>291.2999877929688 0 0</gx:angles>
+				<gx:angles>220.3000030517578 0 0</gx:angles>
+				<gx:angles>244.5 0 0</gx:angles>
+				<gx:angles>278.8999938964844 0 0</gx:angles>
+				<gx:angles>270.1000061035156 0 0</gx:angles>
+				<gx:angles>273.2000122070313 0 0</gx:angles>
+				<gx:angles>274.1000061035156 0 0</gx:angles>
+				<gx:angles>280.2000122070313 0 0</gx:angles>
+				<gx:angles>296 0 0</gx:angles>
+				<gx:angles>293.5 0 0</gx:angles>
+				<gx:angles>279.2999877929688 0 0</gx:angles>
+				<gx:angles>282.5 0 0</gx:angles>
+				<gx:angles>261.5 0 0</gx:angles>
+				<gx:angles>244.6999969482422 0 0</gx:angles>
+				<gx:angles>265.5 0 0</gx:angles>
+				<gx:angles>256.7000122070313 0 0</gx:angles>
+				<gx:angles>233.3000030517578 0 0</gx:angles>
+				<gx:angles>256.2999877929688 0 0</gx:angles>
+				<gx:angles>186.6999969482422 0 0</gx:angles>
+				<gx:angles>196 0 0</gx:angles>
+				<gx:angles>211.3000030517578 0 0</gx:angles>
+				<gx:angles>210.5 0 0</gx:angles>
+				<gx:angles>225.6000061035156 0 0</gx:angles>
+				<gx:angles>222.6999969482422 0 0</gx:angles>
+				<gx:angles>254.8000030517578 0 0</gx:angles>
+				<gx:angles>177.3999938964844 0 0</gx:angles>
+				<gx:angles>203.6000061035156 0 0</gx:angles>
+				<gx:angles>227 0 0</gx:angles>
+				<gx:angles>191.1999969482422 0 0</gx:angles>
+				<gx:angles>200.8000030517578 0 0</gx:angles>
+				<gx:angles>197.6999969482422 0 0</gx:angles>
+				<gx:angles>202.8000030517578 0 0</gx:angles>
+				<gx:angles>213.3999938964844 0 0</gx:angles>
+				<gx:angles>212.8999938964844 0 0</gx:angles>
+				<gx:angles>212.6999969482422 0 0</gx:angles>
+				<gx:angles>197.1999969482422 0 0</gx:angles>
+				<gx:angles>199.8000030517578 0 0</gx:angles>
+				<gx:angles>189.3999938964844 0 0</gx:angles>
+				<gx:angles>177.6000061035156 0 0</gx:angles>
+				<gx:angles>191.3999938964844 0 0</gx:angles>
+				<gx:angles>222.3000030517578 0 0</gx:angles>
+				<gx:angles>189.3999938964844 0 0</gx:angles>
+				<gx:angles>147.5 0 0</gx:angles>
+				<gx:angles>141.6999969482422 0 0</gx:angles>
+				<gx:angles>177.6999969482422 0 0</gx:angles>
+				<gx:angles>180.8999938964844 0 0</gx:angles>
+				<gx:angles>127 0 0</gx:angles>
+				<gx:angles>109.5999984741211 0 0</gx:angles>
+				<gx:angles>84.59999847412109 0 0</gx:angles>
+				<gx:angles>97.5 0 0</gx:angles>
+				<gx:angles>78 0 0</gx:angles>
+				<gx:angles>23.70000076293945 0 0</gx:angles>
+				<gx:angles>65.40000152587891 0 0</gx:angles>
+				<gx:angles>115.0999984741211 0 0</gx:angles>
+				<gx:angles>90.40000152587891 0 0</gx:angles>
+				<gx:angles>116.1999969482422 0 0</gx:angles>
+				<gx:angles>122.4000015258789 0 0</gx:angles>
+				<gx:angles>121.9000015258789 0 0</gx:angles>
+				<gx:angles>106.0999984741211 0 0</gx:angles>
+				<gx:angles>0 0 0</gx:angles>
+				<gx:angles>113.5 0 0</gx:angles>
+				<gx:angles>97.5 0 0</gx:angles>
+				<gx:angles>119 0 0</gx:angles>
+				<gx:angles>121.3000030517578 0 0</gx:angles>
+				<gx:angles>100 0 0</gx:angles>
+				<gx:angles>106.5 0 0</gx:angles>
+				<gx:angles>64.5 0 0</gx:angles>
+				<gx:angles>65.19999694824219 0 0</gx:angles>
+				<gx:angles>31.10000038146973 0 0</gx:angles>
+				<gx:angles>34.90000152587891 0 0</gx:angles>
+				<gx:angles>53.5 0 0</gx:angles>
+				<gx:angles>66.80000305175781 0 0</gx:angles>
+				<gx:angles>87.80000305175781 0 0</gx:angles>
+				<gx:angles>90.5 0 0</gx:angles>
+				<gx:angles>48.70000076293945 0 0</gx:angles>
+				<gx:angles>50.09999847412109 0 0</gx:angles>
+				<gx:angles>61.09999847412109 0 0</gx:angles>
+				<gx:angles>48.09999847412109 0 0</gx:angles>
+				<gx:angles>36.5 0 0</gx:angles>
+				<gx:angles>35.79999923706055 0 0</gx:angles>
+				<gx:angles>41.09999847412109 0 0</gx:angles>
+				<gx:angles>6.900000095367432 0 0</gx:angles>
+				<gx:angles>60 0 0</gx:angles>
+				<gx:angles>100.4000015258789 0 0</gx:angles>
+				<gx:angles>80 0 0</gx:angles>
+				<gx:angles>98.40000152587891 0 0</gx:angles>
+				<gx:angles>108.5 0 0</gx:angles>
+				<gx:angles>109.3000030517578 0 0</gx:angles>
+				<gx:angles>79.80000305175781 0 0</gx:angles>
+				<gx:angles>80.5 0 0</gx:angles>
+				<gx:angles>77.19999694824219 0 0</gx:angles>
+				<gx:angles>94.40000152587891 0 0</gx:angles>
+				<gx:angles>105.3000030517578 0 0</gx:angles>
+				<gx:angles>82.59999847412109 0 0</gx:angles>
+				<gx:angles>119.6999969482422 0 0</gx:angles>
+				<gx:angles>148 0 0</gx:angles>
+				<gx:angles>92.09999847412109 0 0</gx:angles>
+				<gx:angles>99.19999694824219 0 0</gx:angles>
+				<gx:angles>61 0 0</gx:angles>
+				<gx:angles>126.6999969482422 0 0</gx:angles>
+				<gx:angles>194.1999969482422 0 0</gx:angles>
+				<gx:angles>99.59999847412109 0 0</gx:angles>
+				<gx:angles>91.09999847412109 0 0</gx:angles>
+				<gx:angles>102 0 0</gx:angles>
+				<gx:angles>104.5 0 0</gx:angles>
+				<gx:angles>83.90000152587891 0 0</gx:angles>
+				<gx:angles>80.69999694824219 0 0</gx:angles>
+				<gx:angles>80.80000305175781 0 0</gx:angles>
+				<gx:angles>89.5 0 0</gx:angles>
+				<gx:angles>61.5 0 0</gx:angles>
+				<gx:angles>50 0 0</gx:angles>
+				<gx:angles>61.90000152587891 0 0</gx:angles>
+				<gx:angles>65.19999694824219 0 0</gx:angles>
+				<gx:angles>77.30000305175781 0 0</gx:angles>
+				<gx:angles>12.10000038146973 0 0</gx:angles>
+				<gx:angles>163.6999969482422 0 0</gx:angles>
+				<gx:angles>127 0 0</gx:angles>
+				<gx:angles>95.30000305175781 0 0</gx:angles>
+				<gx:angles>62.79999923706055 0 0</gx:angles>
+				<gx:angles>0.300000011920929 0 0</gx:angles>
+				<gx:angles>331.7999877929688 0 0</gx:angles>
+				<gx:angles>296.8999938964844 0 0</gx:angles>
+				<ExtendedData>
+					<SchemaData schemaUrl="#track_schema">
+						<gx:SimpleArrayData kml:name="speed">
+							<gx:value>0</gx:value>
+							<gx:value>0.252102</gx:value>
+							<gx:value>0.287973</gx:value>
+							<gx:value>0.405585</gx:value>
+							<gx:value>0.786804</gx:value>
+							<gx:value>0.768954</gx:value>
+							<gx:value>0.785288</gx:value>
+							<gx:value>0.877681</gx:value>
+							<gx:value>1.14429</gx:value>
+							<gx:value>1.13595</gx:value>
+							<gx:value>0.74926</gx:value>
+							<gx:value>0.763135</gx:value>
+							<gx:value>0.848135</gx:value>
+							<gx:value>0.726346</gx:value>
+							<gx:value>0.838346</gx:value>
+							<gx:value>0.834069</gx:value>
+							<gx:value>0.798717</gx:value>
+							<gx:value>0.713081</gx:value>
+							<gx:value>0.772167</gx:value>
+							<gx:value>1.00473</gx:value>
+							<gx:value>0.757475</gx:value>
+							<gx:value>0.635876</gx:value>
+							<gx:value>0.153077</gx:value>
+							<gx:value>0.838155</gx:value>
+							<gx:value>0.93324</gx:value>
+							<gx:value>1.03851</gx:value>
+							<gx:value>1.18532</gx:value>
+							<gx:value>1.11635</gx:value>
+							<gx:value>1.10218</gx:value>
+							<gx:value>1.20477</gx:value>
+							<gx:value>1.29316</gx:value>
+							<gx:value>1.10851</gx:value>
+							<gx:value>0.815825</gx:value>
+							<gx:value>0.742059</gx:value>
+							<gx:value>1.01767</gx:value>
+							<gx:value>0.834528</gx:value>
+							<gx:value>0.53583</gx:value>
+							<gx:value>0.684244</gx:value>
+							<gx:value>0.926851</gx:value>
+							<gx:value>0.966615</gx:value>
+							<gx:value>1.07908</gx:value>
+							<gx:value>1.06344</gx:value>
+							<gx:value>0.865174</gx:value>
+							<gx:value>0.576196</gx:value>
+							<gx:value>0.620248</gx:value>
+							<gx:value>0.387274</gx:value>
+							<gx:value>0.943168</gx:value>
+							<gx:value>0.519434</gx:value>
+							<gx:value>0.686803</gx:value>
+							<gx:value>0.853292</gx:value>
+							<gx:value>0.791091</gx:value>
+							<gx:value>0.175481</gx:value>
+							<gx:value>1.09353</gx:value>
+							<gx:value>1.01255</gx:value>
+							<gx:value>1.0662</gx:value>
+							<gx:value>0.823588</gx:value>
+							<gx:value>0.286466</gx:value>
+							<gx:value>0.33741</gx:value>
+							<gx:value>0.628533</gx:value>
+							<gx:value>1.04048</gx:value>
+							<gx:value>0.940842</gx:value>
+							<gx:value>1.14475</gx:value>
+							<gx:value>1.01554</gx:value>
+							<gx:value>0.878497</gx:value>
+							<gx:value>0.942507</gx:value>
+							<gx:value>1.04949</gx:value>
+							<gx:value>1.0642</gx:value>
+							<gx:value>0.817282</gx:value>
+							<gx:value>1.11794</gx:value>
+							<gx:value>1.1845</gx:value>
+							<gx:value>1.01306</gx:value>
+							<gx:value>0.924567</gx:value>
+							<gx:value>0.837929</gx:value>
+							<gx:value>0.899723</gx:value>
+							<gx:value>0.736705</gx:value>
+							<gx:value>0.676718</gx:value>
+							<gx:value>0.812714</gx:value>
+							<gx:value>1.11508</gx:value>
+							<gx:value>1.0623</gx:value>
+							<gx:value>0.339692</gx:value>
+							<gx:value>0.706752</gx:value>
+							<gx:value>0.576645</gx:value>
+							<gx:value>0.689381</gx:value>
+							<gx:value>0.373565</gx:value>
+							<gx:value>0.830671</gx:value>
+							<gx:value>0.826723</gx:value>
+							<gx:value>0.698911</gx:value>
+							<gx:value>0.349864</gx:value>
+							<gx:value>0.781417</gx:value>
+							<gx:value>0.470058</gx:value>
+							<gx:value>0.772487</gx:value>
+							<gx:value>1.08562</gx:value>
+							<gx:value>1.19084</gx:value>
+							<gx:value>1.09598</gx:value>
+							<gx:value>0.72628</gx:value>
+							<gx:value>0.769121</gx:value>
+							<gx:value>0.820149</gx:value>
+							<gx:value>0.942934</gx:value>
+							<gx:value>1.24198</gx:value>
+							<gx:value>1.10847</gx:value>
+							<gx:value>1.21077</gx:value>
+							<gx:value>1.09386</gx:value>
+							<gx:value>1.22148</gx:value>
+							<gx:value>0.778377</gx:value>
+							<gx:value>0.551311</gx:value>
+							<gx:value>0.926129</gx:value>
+							<gx:value>0.663412</gx:value>
+							<gx:value>1.17552</gx:value>
+							<gx:value>1.39097</gx:value>
+							<gx:value>1.34019</gx:value>
+							<gx:value>0.755777</gx:value>
+							<gx:value>0.772667</gx:value>
+							<gx:value>0.906273</gx:value>
+							<gx:value>1.03381</gx:value>
+							<gx:value>1.03508</gx:value>
+							<gx:value>1.15672</gx:value>
+							<gx:value>1.06617</gx:value>
+							<gx:value>1.01839</gx:value>
+							<gx:value>1.06425</gx:value>
+							<gx:value>0.859716</gx:value>
+							<gx:value>0.675008</gx:value>
+							<gx:value>0.545477</gx:value>
+							<gx:value>0.20702</gx:value>
+							<gx:value>0.169119</gx:value>
+							<gx:value>1.05518</gx:value>
+							<gx:value>1.63841</gx:value>
+							<gx:value>1.57831</gx:value>
+							<gx:value>0.998359</gx:value>
+							<gx:value>0.812678</gx:value>
+							<gx:value>1.17887</gx:value>
+							<gx:value>1.07565</gx:value>
+							<gx:value>0.790912</gx:value>
+							<gx:value>0.517648</gx:value>
+							<gx:value>0.845832</gx:value>
+							<gx:value>0.764756</gx:value>
+							<gx:value>0.772033</gx:value>
+							<gx:value>0.916649</gx:value>
+							<gx:value>0.875203</gx:value>
+							<gx:value>0.845056</gx:value>
+							<gx:value>1.02613</gx:value>
+							<gx:value>0.826162</gx:value>
+							<gx:value>1.13081</gx:value>
+							<gx:value>1.24217</gx:value>
+							<gx:value>0.993985</gx:value>
+							<gx:value>1.14367</gx:value>
+							<gx:value>1.0898</gx:value>
+							<gx:value>1.14307</gx:value>
+							<gx:value>1.1219</gx:value>
+							<gx:value>1.26118</gx:value>
+							<gx:value>1.32551</gx:value>
+							<gx:value>1.00278</gx:value>
+							<gx:value>1.23249</gx:value>
+							<gx:value>1.03378</gx:value>
+							<gx:value>0.889072</gx:value>
+							<gx:value>0.715468</gx:value>
+							<gx:value>0.671054</gx:value>
+							<gx:value>0.669804</gx:value>
+							<gx:value>0.764932</gx:value>
+							<gx:value>0.765859</gx:value>
+							<gx:value>1.09214</gx:value>
+							<gx:value>0.818567</gx:value>
+							<gx:value>0.944658</gx:value>
+							<gx:value>0.98684</gx:value>
+							<gx:value>0.949626</gx:value>
+							<gx:value>0.893716</gx:value>
+							<gx:value>0.859041</gx:value>
+							<gx:value>0.903655</gx:value>
+							<gx:value>0.965187</gx:value>
+							<gx:value>0.977062</gx:value>
+							<gx:value>1.0297</gx:value>
+							<gx:value>0.84287</gx:value>
+							<gx:value>0.91797</gx:value>
+							<gx:value>0.681511</gx:value>
+							<gx:value>0.532083</gx:value>
+							<gx:value>0.826768</gx:value>
+							<gx:value>1.13813</gx:value>
+							<gx:value>0.848765</gx:value>
+							<gx:value>1.31573</gx:value>
+							<gx:value>0.645085</gx:value>
+							<gx:value>0.40823</gx:value>
+							<gx:value>0.386213</gx:value>
+							<gx:value>1.08554</gx:value>
+							<gx:value>0.98069</gx:value>
+							<gx:value>1.016</gx:value>
+							<gx:value>0.674496</gx:value>
+							<gx:value>1.06147</gx:value>
+							<gx:value>1.07721</gx:value>
+							<gx:value>1.2151</gx:value>
+							<gx:value>1.13655</gx:value>
+							<gx:value>0.856519</gx:value>
+							<gx:value>1.00409</gx:value>
+							<gx:value>0.883137</gx:value>
+							<gx:value>0.69912</gx:value>
+							<gx:value>0.653927</gx:value>
+							<gx:value>0.589122</gx:value>
+							<gx:value>0.586953</gx:value>
+							<gx:value>0.911949</gx:value>
+							<gx:value>1.13238</gx:value>
+							<gx:value>0.737021</gx:value>
+							<gx:value>0.85089</gx:value>
+							<gx:value>0.783089</gx:value>
+							<gx:value>0.70279</gx:value>
+							<gx:value>1.01463</gx:value>
+							<gx:value>1.18926</gx:value>
+							<gx:value>1.09382</gx:value>
+							<gx:value>1.15044</gx:value>
+							<gx:value>1.07741</gx:value>
+							<gx:value>0.830028</gx:value>
+							<gx:value>0.753581</gx:value>
+							<gx:value>1.30135</gx:value>
+							<gx:value>1.06829</gx:value>
+							<gx:value>1.08647</gx:value>
+							<gx:value>1.03518</gx:value>
+							<gx:value>1.02297</gx:value>
+							<gx:value>0.962844</gx:value>
+							<gx:value>1.13559</gx:value>
+							<gx:value>0.99756</gx:value>
+							<gx:value>1.2532</gx:value>
+							<gx:value>1.23323</gx:value>
+							<gx:value>1.22009</gx:value>
+							<gx:value>1.10228</gx:value>
+							<gx:value>1.08908</gx:value>
+							<gx:value>1.09238</gx:value>
+							<gx:value>1.05092</gx:value>
+							<gx:value>0.910847</gx:value>
+							<gx:value>1.0208</gx:value>
+							<gx:value>0.814607</gx:value>
+							<gx:value>0.751852</gx:value>
+							<gx:value>0.791248</gx:value>
+							<gx:value>0.701799</gx:value>
+							<gx:value>0.706538</gx:value>
+							<gx:value>0.784088</gx:value>
+							<gx:value>0.795285</gx:value>
+							<gx:value>0.0152781</gx:value>
+							<gx:value>0.0111536</gx:value>
+							<gx:value>0.789631</gx:value>
+							<gx:value>1.16343</gx:value>
+							<gx:value>1.19903</gx:value>
+							<gx:value>0.706443</gx:value>
+							<gx:value>0.749801</gx:value>
+							<gx:value>0.837158</gx:value>
+							<gx:value>1.34381</gx:value>
+							<gx:value>1.31813</gx:value>
+							<gx:value>1.01916</gx:value>
+							<gx:value>0.974652</gx:value>
+							<gx:value>1.0208</gx:value>
+							<gx:value>0.89627</gx:value>
+							<gx:value>0.202067</gx:value>
+							<gx:value>0.292614</gx:value>
+							<gx:value>1.33758</gx:value>
+							<gx:value>1.11202</gx:value>
+							<gx:value>0.957748</gx:value>
+							<gx:value>0.853761</gx:value>
+							<gx:value>0.940762</gx:value>
+							<gx:value>0.523958</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="horizontal_accuracy">
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+							<gx:value>3.79009</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="vertical_accuracy">
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+							<gx:value>3</gx:value>
+						</gx:SimpleArrayData>
+						<gx:SimpleArrayData kml:name="source">
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+							<gx:value>Satellite</gx:value>
+						</gx:SimpleArrayData>
+					</SchemaData>
+				</ExtendedData>
+			</gx:Track>
+		</Placemark>
+		<Placemark>
+			<name>Young cashew plant</name>
+			<TimeStamp><when>2022-12-13T11:23:42Z</when>
+</TimeStamp>
+			<styleUrl>#style14</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Young cashew plant.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39225903,12.72253233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ziziphus mauritiana</name>
+			<TimeStamp><when>2022-12-13T12:22:23Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus mauritiana .jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3915750359285,12.7213894317509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ziziphus mauritiana</name>
+			<TimeStamp><when>2022-12-13T12:25:18Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<Point>
+				<coordinates>-11.3914962251197,12.7216281356688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ziziphus mauritiana</name>
+			<TimeStamp><when>2022-12-13T12:28:18Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Ziziphus mauritiana .jpg" /><br /><img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus mauritiana  (1).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.39156298,12.72214551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ziziphus tree</name>
+			<TimeStamp><when>2022-12-13T13:16:40Z</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus tree.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-11.3914518202219,12.7200289665814,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

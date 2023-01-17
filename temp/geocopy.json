@@ -1,0 +1,55 @@
+{
+	"kml": {
+		"Document": {
+			"Folder": {
+				"name": "Layer",
+				"styleUrl": "#style1",
+				"ExtendedData": {
+					"SchemaData": {
+						"_schemaUrl": "#schema0"
+					}
+				},
+				"Placemark": [
+					{
+						"name": "12 cashew plants recorded in a small part",
+						"TimeStamp": {
+							"when": "2022-12-13T11:36:39Z"
+						},
+						"styleUrl": "#style18",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3922944216377,12.7216595923698"
+					},
+					{
+						"name": "12 cashew plants recorded in a small part",
+						"TimeStamp": {
+							"when": "2022-12-13T11:36:39Z"
+						},
+						"styleUrl": "#style18",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3922944216377,12.7216595923698"
+					}
+				]
+			}
+		},
+		"_xmlns": "http://www.opengis.net/kml/2.2",
+		"_xmlns:gx": "http://www.google.com/kml/ext/2.2",
+		"_xmlns:kml": "http://www.opengis.net/kml/2.2",
+		"_xmlns:atom": "http://www.w3.org/2005/Atom"
+	}
+}

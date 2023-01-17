@@ -1,0 +1,866 @@
+{
+	"kml": {
+		"Document": {
+			"Folder": {
+				"name": "Layer",
+				"styleUrl": "#style1",
+				"ExtendedData": {
+					"SchemaData": {
+						"_schemaUrl": "#schema0"
+					}
+				},
+				"Placemark": [
+					{
+						"name": "12 cashew plants recorded in a small part",
+						"TimeStamp": {
+							"when": "2022-12-13T11:36:39Z"
+						},
+						"styleUrl": "#style18",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/12 cashew plants recorded in a small part.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3922944216377,12.7216595923698"
+					},
+					{
+						"name": "30 young cashew plants",
+						"TimeStamp": {
+							"when": "2022-12-13T11:45:38Z"
+						},
+						"styleUrl": "#style18",
+						"Point": "-11.39291875,12.72225514"
+					},
+					{
+						"name": "Cashew plantation",
+						"TimeStamp": {
+							"when": "2022-12-13T12:57:35Z"
+						},
+						"styleUrl": "#style18",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "Around 800 plants (were planted  2 years ago )"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Cashew plantation (1).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3916977890361,12.7198533493903"
+					},
+					{
+						"name": "Economic tree called Bagalin",
+						"TimeStamp": {
+							"when": "2022-12-13T14:07:57Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "Description",
+									"__text": "22 trees recorded"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3970174879121,12.7248583837822"
+					},
+					{
+						"name": "Economic tree called Balalingho",
+						"TimeStamp": {
+							"when": "2022-12-13T11:38:58Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Balalingho.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Balalingho (1).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39215654,12.72202522"
+					},
+					{
+						"name": "Economic tree called Batio",
+						"TimeStamp": {
+							"when": "2022-12-13T13:20:24Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Batio (2).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39189879,12.71978546"
+					},
+					{
+						"name": "Economic tree called bembo",
+						"TimeStamp": {
+							"when": "2022-12-13T12:04:53Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "fruit is used for food and also marked"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called bembo (2).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39243858,12.72146531"
+					},
+					{
+						"name": "Economic tree called Bembo",
+						"TimeStamp": {
+							"when": "2022-12-13T12:13:34Z"
+						},
+						"styleUrl": "#style3",
+						"Point": "-11.39160122,12.7210365"
+					},
+					{
+						"name": "Economic tree called Bembo",
+						"TimeStamp": {
+							"when": "2022-12-13T15:12:53Z"
+						},
+						"styleUrl": "#style3",
+						"Point": "-11.39127338,12.72014291"
+					},
+					{
+						"name": "Economic tree called coucouwo",
+						"TimeStamp": {
+							"when": "2022-12-13T12:19:02Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called coucouwo (2).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39164056,12.72098198"
+					},
+					{
+						"name": "Economic tree called dougouto",
+						"TimeStamp": {
+							"when": "2022-12-13T12:14:19Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called dougouto (2).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39164563,12.72107883"
+					},
+					{
+						"name": "Economic tree called Koutoundéfing",
+						"TimeStamp": {
+							"when": "2022-12-13T13:21:31Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing (1).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39194893,12.71978722"
+					},
+					{
+						"name": "Economic tree called Koutoundéfing",
+						"TimeStamp": {
+							"when": "2022-12-13T13:22:50Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing (1).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39182412,12.71983397"
+					},
+					{
+						"name": "Economic tree called Koutoundéfing",
+						"TimeStamp": {
+							"when": "2022-12-13T13:23:38Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Koutoundéfing  (1).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39180496,12.71978736"
+					},
+					{
+						"name": "Economic tree called Koutoundéfing",
+						"TimeStamp": {
+							"when": "2022-12-13T13:24:41Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Koutoundéfing .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39171474,12.71968888"
+					},
+					{
+						"name": "Economic tree called Seko",
+						"TimeStamp": {
+							"when": "2022-12-13T13:14:50Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "Fruit is used for food and also marketed"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Seko (2).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3915978227009,12.7200624166335"
+					},
+					{
+						"name": "Economic tree called Ségo",
+						"TimeStamp": {
+							"when": "2022-12-13T11:58:11Z"
+						},
+						"styleUrl": "#style5",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "Fruit is used for food and is also marked"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Ségo (2).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39267874,12.72175698"
+					},
+					{
+						"name": "Economic tree called Séh",
+						"TimeStamp": {
+							"when": "2022-12-13T11:28:18Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3923554559713,12.7223558722696"
+					},
+					{
+						"name": "Economic tree called Séh",
+						"TimeStamp": {
+							"when": "2022-12-13T11:32:55Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3922338162167,12.7222567560193"
+					},
+					{
+						"name": "Economic tree called Séh",
+						"TimeStamp": {
+							"when": "2022-12-13T11:33:30Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Economic tree called Séh .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39219874,12.72221026"
+					},
+					{
+						"name": "Economic tree called Séh",
+						"TimeStamp": {
+							"when": "2022-12-13T11:34:46Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/2_Economic tree called Séh .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39206839,12.72199849"
+					},
+					{
+						"name": "Economic tree called Séh",
+						"TimeStamp": {
+							"when": "2022-12-13T12:00:54Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/3_Economic tree called Séh .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3926731381596,12.7216750128832"
+					},
+					{
+						"name": "Economic tree called Séh in bambara",
+						"TimeStamp": {
+							"when": "2022-12-13T11:25:03Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "used to make oil, soap, médical treatment with the fruits \nFour trees at this location"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara.jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree called Séh in bambara (2).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39230506,12.72249325"
+					},
+					{
+						"name": "Economic tree called Touro",
+						"TimeStamp": {
+							"when": "2022-12-13T14:43:15Z"
+						},
+						"styleUrl": "#style3",
+						"Point": "-11.39689807,12.72524047"
+					},
+					{
+						"name": "Economic tree shea",
+						"TimeStamp": {
+							"when": "2022-12-13T12:02:37Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree shea.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39273708,12.72141324"
+					},
+					{
+						"name": "Economic tree Ziziphus mauritiana",
+						"TimeStamp": {
+							"when": "2022-12-13T12:16:48Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Economic tree Ziziphus mauritiana.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3916188025974,12.7209645533899"
+					},
+					{
+						"name": "Fode Keita, Dioulafoundou Bada 72056758",
+						"TimeStamp": {
+							"when": "2022-12-13T14:04:05Z"
+						},
+						"styleUrl": "#style19",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "Description",
+									"__text": "1)\tVerify the name of the landowner and find out which village or hamlet they reside : Fode Keita, Dioulafoundou Bada 72056758\n2)\tFind out how much land they own elsewhere outside the Project area. yes at 3 km from.this location. 4ha\n3)\tVerify that the land boundaries are correct and if not take GPS recordings of any necessary corrections \n4)\tTake a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Maize, \n5)\tSurvey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees) Cashew plantation (284 trees innthr impacted field, mango orchard (one non mâture in one shea tree\n6)\tIdentify any of the following assets within each land parcel: \na)\tPhysical structures (grain stores etc): No physical structure \nb)\tSpirit trees/cultural heritage sites\nc)\tWells"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3969633656114,12.7248913280407"
+					},
+					{
+						"name": "Land conditions",
+						"TimeStamp": {
+							"when": "2022-12-13T12:01:56Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Land conditions.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39267874,12.72154098"
+					},
+					{
+						"name": "land cover with grassess indicating good land conditions",
+						"TimeStamp": {
+							"when": "2022-12-13T13:56:05Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/land cover with grassess indicating good land conditions  .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3969177306783,12.7249520759043"
+					},
+					{
+						"name": "Landowner description",
+						"TimeStamp": {
+							"when": "2022-12-13T13:05:00Z"
+						},
+						"styleUrl": "#style19",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "Description",
+									"__text": "1)\tVerify the name of the landowner and find out which village or hamlet they reside: Mamadou Keita, Dioulafoundou Bada 73043496 / 78772637\n2)\tFind out how much land they own elsewhere outside the Project area. Yes at 500 m near this farm. Another field is located at 1km. The surface area is around 500 m²\n3)\tVerify that the land boundaries are correct and if not take GPS recordings of any necessary corrections \n4)\tTake a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Maize, Groundnuts, beens.\n5)\tSurvey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees). Young Cashew plantation\n6)\tIdentify any of the following assets within each land parcel: \na)\tPhysical structures (grain stores etc)\nb)\tSpirit trees/cultural heritage sites\nc)\tWells"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3914850825529,12.7200389477156"
+					},
+					{
+						"name": "Lot of young cashew plants",
+						"TimeStamp": {
+							"when": "2022-12-13T12:49:54Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "More than 40 plants"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (1).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (2).jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Lot of young cashew plants  (3).jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39232047,12.7209372"
+					},
+					{
+						"name": "Mamadou Cissoko Farm",
+						"TimeStamp": {
+							"when": "2022-12-13T13:36:27Z"
+						},
+						"styleUrl": "#style20",
+						"Point": "-11.3915619590935,12.7203004730563"
+					},
+					{
+						"name": "Maïzena farm",
+						"TimeStamp": {
+							"when": "2022-12-13T12:25:54Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Maïzena farm.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3915771716318,12.721632001718"
+					},
+					{
+						"name": "Nere tree",
+						"TimeStamp": {
+							"when": "2022-12-13T13:19:17Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Nere tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3918266,12.71969997"
+					},
+					{
+						"name": "Placemark 1",
+						"TimeStamp": {
+							"when": "2022-12-13T10:55:48Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Placemark 1.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39194789,12.72089053"
+					},
+					{
+						"name": "Placemark 2",
+						"TimeStamp": {
+							"when": "2022-12-13T10:58:48Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Placemark 2.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.391780647208,12.7213958843894"
+					},
+					{
+						"name": "Quinsa kanouté farm",
+						"TimeStamp": {
+							"when": "2022-12-13T12:47:25Z"
+						},
+						"styleUrl": "#style20",
+						"Point": "-11.3923477,12.72074776"
+					},
+					{
+						"name": "Ronier",
+						"TimeStamp": {
+							"when": "2022-12-13T14:14:15Z"
+						},
+						"styleUrl": "#style3",
+						"Point": "-11.39687996,12.72496045"
+					},
+					{
+						"name": "Saba senegalensis",
+						"TimeStamp": {
+							"when": "2022-12-13T11:31:06Z"
+						},
+						"styleUrl": "#style14",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": [
+									{
+										"_name": "Description",
+										"__text": "One tree"
+									},
+									{
+										"_name": "pdfmaps_photos",
+										"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Saba senegalensis.jpg\" /><br />"
+									}
+								],
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39228573,12.72221757"
+					},
+					{
+						"name": "Seydou Coulibaly Tel 72739758",
+						"TimeStamp": {
+							"when": "2022-12-13T11:07:17Z"
+						},
+						"styleUrl": "#style19",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "Description",
+									"__text": "1)\tVerify the name of the landowner and find out which village or hamlet they reside: Seydou Coulibaly Tel: 72739758\n2)\tFind out how much land they own elsewhere outside the Project area : D'autres champs ailleurs à environ 2km \n3)\tVerify that the land boundaries are correct and if not take GPS recordings of any necessary corrections \n4)\tTake a photo of the land and take notes on any seasonal crops / condition of the land (degradation etc) : Arachide, coton et maïs mil, bagalingho (pour faire du savon). Land in good conditions\n5)\tSurvey and record all economic/natural trees (incl. cashew  trees, moringa trees, mango trees, orange trees, baobab, Nere, Shea trees): 42 young cashew plants\n6)\tIdentify any of the following assets within each land parcel: \na)\tPhysical structures (grain stores etc)\nb)\tSpirit trees/cultural heritage sites. No \nc)\tWells"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3923570658744,12.7219712489508"
+					},
+					{
+						"name": "Shea trea",
+						"TimeStamp": {
+							"when": "2022-12-13T12:09:47Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Shea trea.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39180191,12.72126356"
+					},
+					{
+						"name": "Shea tree",
+						"TimeStamp": {
+							"when": "2022-12-13T12:08:27Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Shea tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3917917986652,12.7213372274806"
+					},
+					{
+						"name": "Shea tree",
+						"TimeStamp": {
+							"when": "2022-12-13T12:09:17Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Shea tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39178898,12.72130996"
+					},
+					{
+						"name": "Shea tree",
+						"TimeStamp": {
+							"when": "2022-12-13T12:11:10Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/2_Shea tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39167612,12.72131915"
+					},
+					{
+						"name": "Shea tree",
+						"TimeStamp": {
+							"when": "2022-12-13T12:27:05Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/3_Shea tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39158561,12.72190814"
+					},
+					{
+						"name": "Sorghum",
+						"TimeStamp": {
+							"when": "2022-12-13T11:19:24Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Sorghum.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39268128,12.72233037"
+					},
+					{
+						"name": "Souadou Diallo farm",
+						"TimeStamp": {
+							"when": "2022-12-13T12:45:41Z"
+						},
+						"styleUrl": "#style20",
+						"Point": "-11.392180369573,12.7208212589606"
+					},
+					{
+						"name": "Young cashew plant",
+						"TimeStamp": {
+							"when": "2022-12-13T11:23:42Z"
+						},
+						"styleUrl": "#style14",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Young cashew plant.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39225903,12.72253233"
+					},
+					{
+						"name": "Ziziphus mauritiana",
+						"TimeStamp": {
+							"when": "2022-12-13T12:22:23Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus mauritiana .jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3915750359285,12.7213894317509"
+					},
+					{
+						"name": "Ziziphus mauritiana",
+						"TimeStamp": {
+							"when": "2022-12-13T12:25:18Z"
+						},
+						"styleUrl": "#style3",
+						"Point": "-11.3914962251197,12.7216281356688"
+					},
+					{
+						"name": "Ziziphus mauritiana",
+						"TimeStamp": {
+							"when": "2022-12-13T12:28:18Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/1_Ziziphus mauritiana .jpg\" /><br /><img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus mauritiana  (1).jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.39156298,12.72214551"
+					},
+					{
+						"name": "Ziziphus tree",
+						"TimeStamp": {
+							"when": "2022-12-13T13:16:40Z"
+						},
+						"styleUrl": "#style3",
+						"ExtendedData": {
+							"SchemaData": {
+								"SimpleData": {
+									"_name": "pdfmaps_photos",
+									"__cdata": "<img src=\"C:/Users/GermainRwibutso/Desktop/Paper/GIS/BANTAKO/Data_extraction/BANTA2411_LandParcelsAndAssets3_PW_Final_RevDraft/images/Ziziphus tree.jpg\" /><br />"
+								},
+								"_schemaUrl": "#schema0"
+							}
+						},
+						"Point": "-11.3914518202219,12.7200289665814"
+					}
+				]
+			}
+		},
+		"_xmlns": "http://www.opengis.net/kml/2.2",
+		"_xmlns:gx": "http://www.google.com/kml/ext/2.2",
+		"_xmlns:kml": "http://www.opengis.net/kml/2.2",
+		"_xmlns:atom": "http://www.w3.org/2005/Atom"
+	}
+}
