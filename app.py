@@ -43,9 +43,10 @@ def convert_file():
                 coords = "NOT FILLED"
             data.append({'Picture name': name, 'Picture taken:': timestamp, 'Picture names':cdata, '[Long,Lat] Point':coords})
 
-       
+        
         # convert the data to a Pandas DataFrame
         df = pd.DataFrame(data)
+        print(df)
         session['df'] = df.to_dict()
         return render_template('table.html',  tables=[df.to_html(classes='data')], titles=df.columns.values)
     return "Invalid file type. Please upload a JSON file."
